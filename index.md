@@ -1,14 +1,14 @@
----
-title: Workshop on Tensor Decompositions in Nancy (Tendency)
+
+
 ---
 
 # Workshop on Tensor Decompositions in Nancy (Tendency)
 
-**Location**: Nancy, France  
-**Date**: [Insert Date]
+**Location**: Nancy, France. 
+**Date**: 26 and 27 November, 2024.
 
 ## About the Workshop
-This workshop will explore low-rank tensor decomposition and its interactions with machine learning and AI, covering theoretical foundations, practical applications, and cutting-edge research.
+This workshop will explore low-rank tensor decomposition and its interactions with neural networks, covering theoretical foundations and practical applications.
 
 ## Schedule
 Stay tuned for the detailed schedule of talks and sessions!
@@ -17,10 +17,14 @@ Stay tuned for the detailed schedule of talks and sessions!
 We will be announcing the list of speakers shortly.
 
 ## Registration
-Registration will open soon. Check back for more details!
+Registration is free (the capacity is limited). Check back for more details soon!
+
 
 ## Contact Us
-Email us at: [info@workshop-tensors-ml.com](mailto:info@workshop-tensors-ml.com)
+
+Organization committee: Konstantin Usevich, Marianne Clausel, Ricardo Borsoi, Sebastian Miron.
+
+You can email the organizers at: [firstname.lastname@univ-lorraine.fr](firstname.lastname@univ-lorraine.fr)
 
 ---
 
