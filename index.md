@@ -1,10 +1,9 @@
 
 
----
-
 # Workshop on Tensor Decompositions in Nancy (Tendency)
 
 **Location**: Nancy, France. 
+
 **Date**: 26 and 27 November, 2024.
 
 ## About the Workshop
