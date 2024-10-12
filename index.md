@@ -2,7 +2,7 @@
 
 # Workshop on Tensor Decompositions in Nancy (Tendency)
 
-**Location**: IDMC (Institut des Sciences du Digital), Nancy, France.  [How to get there](http)
+**Location**: IDMC (Institut des Sciences du Digital), Nancy, France.  [How to get there](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=48.68979%2C6.17514%3B48.69743%2C6.17170#map=16/48.69352/6.17392)
 
 **Date**: 26 and 27 November, 2024.
 
@@ -10,9 +10,14 @@
 This workshop will explore low-rank tensor approximations and their interactions with neural networks, covering theoretical foundations and practical applications. 
 
 ## Schedule
-We aim to start the workshop at 13h-14hmStay tuned for the detailed schedule of talks and sessions!
+We aim to start the workshop at 13h-14h on November, 26th and the workshop should finish on the 27th. Stay tuned for the detailed schedule of talks and sessions!
 
-## Speakers
+## Confirmed speakers
+- [André de Almeida](https://professors.gtel.ufc.br/andre/) (Federal University of Ceara, Fortaleza)
+- [Jérémy Cohen]([https://professors.gtel.ufc.br/andre/](https://jeremy-e-cohen.jimdofree.com) (CNRS-CREATIS, Lyon)
+- [Julia Gusak](https://juliagusak.github.io) (INRIA, Bordeaux)
+
+
 We will be announcing the list of speakers shortly.
 
 ## Registration
