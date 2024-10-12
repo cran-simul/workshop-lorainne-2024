@@ -10,7 +10,7 @@
 This workshop will explore low-rank tensor approximations and their interactions with neural networks, covering theoretical foundations and practical applications. 
 
 ## Schedule
-We aim to start the workshop at 13h-14h on November, 26th and the workshop should finish on the 27th. Stay tuned for the detailed schedule of talks!
+We aim to start the workshop at 13h-14h on November, 26th and the workshop should finish on the 27th in the afternoon. Stay tuned for the detailed schedule of talks!
 
 ## Confirmed speakers
 - [André de Almeida](https://professors.gtel.ufc.br/andre/) (Federal University of Ceara, Fortaleza)
