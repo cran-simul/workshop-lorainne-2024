@@ -2,15 +2,15 @@
 
 # Workshop on Tensor Decompositions in Nancy (Tendency)
 
-**Location**: Nancy, France.  
+**Location**: IDMC (Institut des Sciences du Digital), Nancy, France.  [How to get there](http)
 
 **Date**: 26 and 27 November, 2024.
 
 ## About the Workshop
-This workshop will explore low-rank tensor decomposition and its interactions with neural networks, covering theoretical foundations and practical applications.
+This workshop will explore low-rank tensor approximations and their interactions with neural networks, covering theoretical foundations and practical applications. 
 
 ## Schedule
-Stay tuned for the detailed schedule of talks and sessions!
+We aim to start the workshop at 13h-14hmStay tuned for the detailed schedule of talks and sessions!
 
 ## Speakers
 We will be announcing the list of speakers shortly.
