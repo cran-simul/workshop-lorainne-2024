@@ -14,9 +14,11 @@ We aim to start the workshop at 13h-14h on November, 26th and the workshop shoul
 
 ## Confirmed speakers
 - [André de Almeida](https://professors.gtel.ufc.br/andre/) (Federal University of Ceara, Fortaleza)
-- [Jérémy Cohen]([https://professors.gtel.ufc.br/andre/](https://jeremy-e-cohen.jimdofree.com) (CNRS-CREATIS, Lyon)
+- [Jérémy Cohen](https://jeremy-e-cohen.jimdofree.com) (CNRS-CREATIS, Lyon)
 - [Julia Gusak](https://juliagusak.github.io) (INRIA, Bordeaux)
-
+- [Bernard Mourrain](https://www-sop.inria.fr/members/Bernard.Mourrain/) (INRIA, Sophia-Antipolis)
+- Mariya Ishteva (Katholieke Universiteit Leuven)
+- [Yassine Zniyed](https://yzniyed.blogspot.com/p/about-me.html) (University of Toulon)
 
 We will be announcing the list of speakers shortly.
 
@@ -26,7 +28,7 @@ Registration is free (the capacity is limited). Check back for more details soon
 
 ## Contact Us
 
-Organization committee: Konstantin Usevich, Marianne Clausel, Ricardo Borsoi, Sebastian Miron.
+Organization committee: Konstantin Usevich, Marianne Clausel, Ricardo Borsoi, Sebastian Miron. 
 
 You can email the organizers at: [firstname.lastname@univ-lorraine.fr](firstname.lastname@univ-lorraine.fr)
 
