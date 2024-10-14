@@ -1,5 +1,3 @@
-
-
 # LoRAINNe'24: workshop on LOw-Rank Approximations and their Interactions with Neural NEtworks
 
 **Location**: IDMC (Institut des Sciences du Digital), Nancy, France.  [How to get there](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=48.68979%2C6.17514%3B48.69743%2C6.17170#map=16/48.69352/6.17392)
