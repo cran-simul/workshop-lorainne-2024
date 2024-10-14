@@ -10,7 +10,7 @@
 This workshop will explore low-rank matrix and tensor decompositions/approximations and their interactions with neural networks and machine learning at large. The workshop will cover theoretical foundations as well as practical applications, with the main goal to connect researchers working in these fields. This workshop is also a closing event for the ANR LeaFleT project (project ANR-19-CE23-0021).
 
 ## Schedule
-The workshop will start at 13h-14h on 26 November and should finish on the 27th in the afternoon. Stay tuned for the detailed schedule of talks!
+We will start at 13h-14h on 26 November and should finish on the 27th in the afternoon. Stay tuned for the detailed schedule of talks!
 
 ## Confirmed speakers
 - [André de Almeida](https://professors.gtel.ufc.br/andre/) (Federal University of Ceara, Fortaleza)
