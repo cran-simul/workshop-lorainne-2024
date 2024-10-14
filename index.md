@@ -20,7 +20,7 @@ We will start at 13h-14h on 26 November and should finish on the 27th in the aft
 - Mariya Ishteva (Katholieke Universiteit Leuven)
 - [Yassine Zniyed](https://yzniyed.blogspot.com/p/about-me.html) (University of Toulon)
 
-We will be announcing the list of speakers shortly.
+We will be announcing the full list of speakers shortly.
 
 ## Registration
 Registration is free (the capacity is limited). Check back for more details soon!
