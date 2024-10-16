@@ -12,6 +12,7 @@ We will start at 13h-14h on 26 November and should finish on the 27th in the aft
 
 ## Confirmed speakers
 - [André de Almeida](https://professors.gtel.ufc.br/andre/) (Federal University of Ceara, Fortaleza)
+- [Christophe Cerisara](https://members.loria.fr/CCerisara/) (CNRS-LORIA, Nancy)
 - [Jérémy Cohen](https://jeremy-e-cohen.jimdofree.com) (CNRS-CREATIS, Lyon)
 - [Julia Gusak](https://juliagusak.github.io) (INRIA, Bordeaux)
 - Mariya Ishteva (Katholieke Universiteit Leuven)
