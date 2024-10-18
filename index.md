@@ -22,6 +22,15 @@ We will start at 13h-14h on 26 November and should finish on the 27th in the aft
 
 We will be announcing the full list of speakers shortly.
 
+## Preliminary Program
+
+### Christophe Cerisara
+*Study of a few properties of LLM pruning*
+### Bernard Mourrain
+*Low rank approximation of moment matrices and tensors*
+
+To be completed.
+
 ## Registration
 Registration is free (the capacity is limited). Check back for more details soon!
 
