@@ -24,6 +24,9 @@ We will be announcing the full list of speakers shortly.
 
 ## Preliminary Program
 
+### André de Almeida
+*Introduction to tensor decompositions*
+
 ### Christophe Cerisara
 *Study of a few properties of LLM pruning*
 ### Bernard Mourrain
