@@ -26,12 +26,16 @@ We will be announcing the full list of speakers shortly.
 ## Preliminary Program
 
 ### André de Almeida
-*Introduction to tensor decompositions*
+*Overview of tensor decompositions and some applications to wireless communications*
 
 ### Christophe Cerisara
 *Study of a few properties of LLM pruning*
+
 ### Bernard Mourrain
 *Low rank approximation of moment matrices and tensors*
+
+### Yassine Zniyed
+*Network compression using tensor decompositions and pruning*
 
 To be completed.
 
