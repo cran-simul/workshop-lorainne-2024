@@ -14,10 +14,11 @@ We will start at 13h-14h on 26 November and should finish on the 27th in the aft
 - [André de Almeida](https://professors.gtel.ufc.br/andre/) (Federal University of Ceara, Fortaleza)
 - [Christophe Cerisara](https://members.loria.fr/CCerisara/) (CNRS-LORIA, Nancy)
 - [Jérémy Cohen](https://jeremy-e-cohen.jimdofree.com) (CNRS-CREATIS, Lyon)
-- [Julia Gusak](https://juliagusak.github.io) (INRIA, Bordeaux)
+- [Julia Gusak](https://juliagusak.github.io) (INRIA Bordeaux)
 - Mariya Ishteva (Katholieke Universiteit Leuven)
-- [Bernard Mourrain](https://www-sop.inria.fr/members/Bernard.Mourrain/) (INRIA, Sophia-Antipolis)
+- [Bernard Mourrain](https://www-sop.inria.fr/members/Bernard.Mourrain/) (INRIA Sophia-Antipolis)
 - [Francesco Tudisco](https://ftudisco.gitlab.io/) (University of Edinburgh)
+- [Yang Qi](https://sites.google.com/view/yangqi) (INRIA Saclay – Île-de-France)
 - [Yassine Zniyed](https://yzniyed.blogspot.com/p/about-me.html) (University of Toulon)
 
 We will be announcing the full list of speakers shortly.
