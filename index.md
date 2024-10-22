@@ -34,6 +34,9 @@ We will be announcing the full list of speakers shortly.
 ### Bernard Mourrain
 *Low rank approximation of moment matrices and tensors*
 
+### Yang Qi
+*On the multi-spiked random tensor model*
+
 ### Yassine Zniyed
 *Network compression using tensor decompositions and pruning*
 
