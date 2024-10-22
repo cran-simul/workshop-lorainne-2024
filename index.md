@@ -47,7 +47,12 @@ Registration is free (the capacity is limited). Check back for more details soon
 
 ## Contact Us
 
-Organization committee: Konstantin Usevich, Marianne Clausel, Ricardo Borsoi, Sebastian Miron, team SiMul @ CRAN.
+Organization committee: 
+ - Ricardo Borsoi
+ - Marianne Clausel
+ - Sebastian Miron
+ - Konstantin Usevich
+ - group SiMul @ CRAN.
 
 You can email the organizers at: [firstname.lastname@univ-lorraine.fr](firstname.lastname@univ-lorraine.fr)
 
