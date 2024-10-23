@@ -23,35 +23,36 @@ We will start at 13h-14h on 26 November and should finish on the 27th in the aft
 
 We will be announcing the full list of speakers shortly.
 
+
 ## Preliminary Program
 
 
-Keynote and invited talks:
+### Keynote and invited talks:
 
 
-### André de Almeida
+#### André de Almeida
 *Overview of tensor decompositions and some applications to wireless communications*
 
-### Christophe Cerisara
+#### Christophe Cerisara
 *Study of a few properties of LLM pruning*
 
-### Bernard Mourrain
+#### Bernard Mourrain
 *Low rank approximation of moment matrices and tensors*
 
-### Yang Qi
+#### Yang Qi
 *On the multi-spiked random tensor model*
 
-### Yassine Zniyed
+#### Yassine Zniyed
 *Network compression using tensor decompositions and pruning*
 
 
 
-Tentative schedule:
+### Tentative schedule:
 
 
 | **Date**       | **Time**        | **Session**                             |
 |----------------|-----------------|-----------------------------------------|
-| **Tue 26 Nov** |                 | **(Tensor Day)**                        |
+| **Tue 26 Nov** |                 | **(Day 1)**                             |
 |                | 13:45-14:00      | Registration                            |
 |                | 14:00-14:15      | Konstantin Usevich                      |
 |                | 14:15-15:15      | Keynote talk (André de Almeida)         |
@@ -61,7 +62,7 @@ Tentative schedule:
 |                | 17:15-17:30      | Spotlight posters                       |
 |                | 17:30-19:00      | Cocktail                                |
 |                | 19:30-22:30      | Restaurant dinner                       |
-| **Wed 26 Nov** |                 |                                         |
+| **Wed 26 Nov** |                 | **(Day 2)**                             |
 |                | 09:00-09:30      | Welcome coffee                          |
 |                | 09:30-10:30      | Keynote talk (Bernard Mourrain)         |
 |                | 10:30-11:00      | Invited talk (Jeremy Cohen)             |
@@ -78,7 +79,7 @@ Tentative schedule:
 
 
 ## Registration
-Registration is free (the capacity is limited). Check back for more details soon!
+Registration is free but mandatory (the capacity is limited). [Click here to register!](https://forms.gle/cp7v3FCfH1QnJh8F6)
 
 ## Contact Us
 
