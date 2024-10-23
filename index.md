@@ -25,6 +25,10 @@ We will be announcing the full list of speakers shortly.
 
 ## Preliminary Program
 
+
+Keynote and invited talks:
+
+
 ### André de Almeida
 *Overview of tensor decompositions and some applications to wireless communications*
 
@@ -40,7 +44,38 @@ We will be announcing the full list of speakers shortly.
 ### Yassine Zniyed
 *Network compression using tensor decompositions and pruning*
 
-To be completed.
+
+
+Tentative schedule:
+
+
+| **Date**       | **Time**        | **Session**                             |
+|----------------|-----------------|-----------------------------------------|
+| **Tue 26 Nov** |                 | **(Tensor Day)**                        |
+|                | 13:45-14:00      | Registration                            |
+|                | 14:00-14:15      | Konstantin Usevich                      |
+|                | 14:15-15:15      | Keynote talk (André de Almeida)         |
+|                | 15:15-15:45      | Invited talk (Mariya Ishteva)           |
+|                | 15:45-16:15      | Coffee break                            |
+|                | 16:15-17:15      | Keynote talk (Francesco Tudisco)        |
+|                | 17:15-17:30      | Spotlight posters                       |
+|                | 17:30-19:00      | Cocktail                                |
+|                | 19:30-22:30      | Restaurant dinner                       |
+| **Wed 26 Nov** |                 |                                         |
+|                | 09:00-09:30      | Welcome coffee                          |
+|                | 09:30-10:30      | Keynote talk (Bernard Mourrain)         |
+|                | 10:30-11:00      | Invited talk (Jeremy Cohen)             |
+|                | 11:00-11:30      | Coffee break                            |
+|                | 11:30-12:30      | Keynote talk (Julia Gusak)              |
+|                | 12:30-14:00      | Lunch break                             |
+|                | 14:00-15:00      | Keynote talk (Christophe Cerisara)      |
+|                | 15:00-15:30      | Invited talk (Yassine Zniyed)           |
+|                | 15:30-16:00      | Invited talk                            |
+|                | 16:30-17:30      | Farewell coffee break                   |
+
+
+
+
 
 ## Registration
 Registration is free (the capacity is limited). Check back for more details soon!
@@ -52,7 +87,7 @@ Organization committee:
  - Marianne Clausel
  - Sebastian Miron
  - Konstantin Usevich
- - group SiMul @ CRAN.
+ - group [SiMul @ CRAN](https://cran-simul.github.io/).
 
 You can email the organizers at: [firstname.lastname@univ-lorraine.fr](firstname.lastname@univ-lorraine.fr)
 
