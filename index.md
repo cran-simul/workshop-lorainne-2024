@@ -36,6 +36,13 @@ We will be announcing the full list of speakers shortly.
 #### Christophe Cerisara
 *Study of a few properties of LLM pruning*
 
+#### Jérémy Cohen
+*Implicit Regularization in Regularized (Nonnegative) Low-Rank Approximations* 
+
+**Abstract:**
+Regularized nonnegative low-rank approximations such as sparse Nonnegative Matrix Factorization or Sparse Nonnegative Tucker Decomposition are an important branch of dimensionality reduction models with enhanced interpretability. However, from a practical perspective, the choice of regularizers and regularization coefficients is often challenging because of the multifactor nature of these models and the lack of theory to back these choices. The work presented aims at improving upon these issues. By studying a more general model called the Homogeneous Regularized Scale-Invariant, we prove that the scale- invariance inherent to low-rank approximation models causes an implicit regularization with unexpected effects. This observation enables to better understand the effect of regularization functions in low-rank approximation models, to guide the choice of the regularization hyperparameters, and to design balancing strategies to enhance the convergence speed of dedicated optimization algorithms. We showcase our contributions on sparse Nonnegative Matrix Factorization, ridge-regularized Canonical Polyadic decomposition and sparse Nonnegative Tucker Decomposition.
+
+
 #### Bernard Mourrain
 *Low rank approximation of moment matrices and tensors*
 
