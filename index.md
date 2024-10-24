@@ -50,19 +50,18 @@ We will be announcing the full list of speakers shortly.
 ### Tentative schedule:
 
 
-| **Date**       | **Time**        | **Session**                             |
-|----------------|-----------------|-----------------------------------------|
-| **Tue 26 Nov** |                 | **(Day 1)**                             |
+| **Date**       | **Time**         | **Session**                             |
+|----------------|------------------|-----------------------------------------|
+| **Tue 26 Nov** |                  | **(Day 1)**                             |
 |                | 13:45-14:00      | Registration                            |
-|                | 14:00-14:15      | Konstantin Usevich                      |
+|                | 14:00-14:15      | Opening remarks                         |
 |                | 14:15-15:15      | Keynote talk (André de Almeida)         |
 |                | 15:15-15:45      | Invited talk (Mariya Ishteva)           |
 |                | 15:45-16:15      | Coffee break                            |
 |                | 16:15-17:15      | Keynote talk (Francesco Tudisco)        |
 |                | 17:15-17:30      | Spotlight posters                       |
-|                | 17:30-19:00      | Cocktail                                |
-|                | 19:30-22:30      | Restaurant dinner                       |
-| **Wed 26 Nov** |                 | **(Day 2)**                             |
+|                | 17:30-19:00      | Cocktail + posters                      |
+| **Wed 26 Nov** |                  | **(Day 2)**                             |
 |                | 09:00-09:30      | Welcome coffee                          |
 |                | 09:30-10:30      | Keynote talk (Bernard Mourrain)         |
 |                | 10:30-11:00      | Invited talk (Jeremy Cohen)             |
@@ -72,7 +71,7 @@ We will be announcing the full list of speakers shortly.
 |                | 14:00-15:00      | Keynote talk (Christophe Cerisara)      |
 |                | 15:00-15:30      | Invited talk (Yassine Zniyed)           |
 |                | 15:30-16:00      | Invited talk                            |
-|                | 16:30-17:30      | Farewell coffee break                   |
+|                | 16:00-17:00      | Farewell coffee break                   |
 
 
 
@@ -94,4 +93,4 @@ You can email the organizers at: [firstname.lastname@univ-lorraine.fr](firstname
 
 ---
 
-&copy; 2024 Workshop on Tensor Decompositions in Nancy
+&copy; 2024 Workshop LoRaINNe
