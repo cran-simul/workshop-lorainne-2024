@@ -68,20 +68,20 @@ Regularized nonnegative low-rank approximations such as sparse Nonnegative Matri
 | **Tue 26 Nov** |                  | **(Day 1)**                             |
 |                | 13:45-14:00      | Registration                            |
 |                | 14:00-14:15      | Opening remarks                         |
-|                | 14:15-15:15      | Keynote talk (André de Almeida)         |
-|                | 15:15-15:45      | Invited talk (Mariya Ishteva)           |
+|                | 14:15-15:15      | André de Almeida                        |
+|                | 15:15-15:45      | Mariya Ishteva                          |
 |                | 15:45-16:15      | Coffee break                            |
-|                | 16:15-17:15      | Keynote talk (Francesco Tudisco)        |
+|                | 16:15-17:15      | Francesco Tudisco                       |
 |                | 17:15-17:30      | Spotlight posters                       |
 |                | 17:30-19:00      | Cocktail + posters                      |
 | **Wed 26 Nov** |                  | **(Day 2)**                             |
 |                | 09:00-09:30      | Welcome coffee                          |
-|                | 09:30-10:30      | Keynote talk (Bernard Mourrain)         |
-|                | 10:30-11:00      | Invited talk (Jeremy Cohen)             |
+|                | 09:30-10:30      | Bernard Mourrain                        |
+|                | 10:30-11:00      | Jeremy Cohen                            |
 |                | 11:00-11:30      | Coffee break                            |
-|                | 11:30-12:30      | Keynote talk                            |
+|                | 11:30-12:30      | Julia Gusak                             |
 |                | 12:30-14:00      | Lunch break                             |
-|                | 14:00-15:00      | Keynote talk   (Christophe Cerisara)    |
+|                | 14:00-15:00      | Christophe Cerisara                     |
 |                | 15:00-15:30      | Invited talk                            |
 |                | 15:30-16:00      | Invited talk                            |
 |                | 16:00-17:00      | Farewell coffee break                   |
