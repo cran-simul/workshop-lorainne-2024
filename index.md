@@ -75,10 +75,10 @@ Regularized nonnegative low-rank approximations such as sparse Nonnegative Matri
 |                | 09:30-10:30      | Keynote talk (Bernard Mourrain)         |
 |                | 10:30-11:00      | Invited talk (Jeremy Cohen)             |
 |                | 11:00-11:30      | Coffee break                            |
-|                | 11:30-12:30      | Keynote talk (Julia Gusak)              |
+|                | 11:30-12:30      | Keynote talk                            |
 |                | 12:30-14:00      | Lunch break                             |
-|                | 14:00-15:00      | Keynote talk (Christophe Cerisara)      |
-|                | 15:00-15:30      | Invited talk (Yassine Zniyed)           |
+|                | 14:00-15:00      | Keynote talk   (Christophe Cerisara)    |
+|                | 15:00-15:30      | Invited talk                            |
 |                | 15:30-16:00      | Invited talk                            |
 |                | 16:00-17:00      | Farewell coffee break                   |
 
