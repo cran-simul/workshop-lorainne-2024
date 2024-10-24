@@ -10,6 +10,10 @@ This workshop will explore low-rank matrix and tensor decompositions/approximati
 ## Schedule
 We will start at 13h-14h on 26 November and should finish on the 27th in the afternoon. Stay tuned for the detailed schedule of talks!
 
+## Registration
+Registration is free but mandatory (the capacity is limited). [Click here to register!](https://forms.gle/cp7v3FCfH1QnJh8F6)
+
+
 ## Confirmed speakers
 - [André de Almeida](https://professors.gtel.ufc.br/andre/) (Federal University of Ceara, Fortaleza)
 - [Christophe Cerisara](https://members.loria.fr/CCerisara/) (CNRS-LORIA, Nancy)
@@ -86,8 +90,6 @@ Regularized nonnegative low-rank approximations such as sparse Nonnegative Matri
 
 
 
-## Registration
-Registration is free but mandatory (the capacity is limited). [Click here to register!](https://forms.gle/cp7v3FCfH1QnJh8F6)
 
 ## Contact Us
 
