@@ -20,6 +20,7 @@ Registration is free but mandatory (the capacity is limited), by 11 November at 
 - [Julia Gusak](https://juliagusak.github.io) (INRIA Bordeaux)
 - Mariya Ishteva (Katholieke Universiteit Leuven)
 - [Bernard Mourrain](https://www-sop.inria.fr/members/Bernard.Mourrain/) (INRIA Sophia-Antipolis)
+- [Mark Sandler](https://www.seresearch.qmul.ac.uk/cmai/people/msandler/) (Queen Mary University of London)
 - [Francesco Tudisco](https://ftudisco.gitlab.io/) (University of Edinburgh)
 - [Yang Qi](https://sites.google.com/view/yangqi) (INRIA Saclay – Île-de-France)
 - [Yassine Zniyed](https://yzniyed.blogspot.com/p/about-me.html) (University of Toulon)
@@ -50,6 +51,16 @@ Regularized nonnegative low-rank approximations such as sparse Nonnegative Matri
 
 ### Bernard Mourrain
 *Low rank approximation of moment matrices and tensors*
+
+### Mark Sandler
+*Artificial Neuroscience: metrology and engineering for Deep Learning using Linear Algebra*
+
+**Abstract:**
+Our new, UK-funded project (which shares a title with this presentation) sets out to establish a new, holistic approach to the understanding and engineering of Artificial Neural Networks. Called Artificial Neuroscience it draws inspiration from natural neuroscience, borrowing and re-imagining its established scientific method and practice, mixing that with mathematics, signal processing and eventually, systems engineering, to Engineer Better AI. 
+ 
+The motivation for this shift in viewpoint comes from an observation that the metric-driven approach to AI research and discovery, which relies strongly on the availability of data, GPUs and electricity is leading to potentially unsafe, inefficient and uninterpretable AI: this belief is widely shared though by no means ubiquitous. We believe that a new way of working, built upon formalisms from an appropriate set of disciplines, will change how AI is done.
+ 
+The presentation will explore further the parallels between AI and neuroscience and will use existing literature to show how several aspects of this viewpoint on the research landscape are already being explored in several labs. It will include a glimpse of our own latest results (submitted to ICLR 2025) that explores how training in low-rank domains can improve learning and reduce the demand for data.
 
 ### Yang Qi
 *On the multi-spiked random tensor model*
