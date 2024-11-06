@@ -20,6 +20,7 @@ Registration is free but mandatory (the capacity is limited), by 11 November at 
 - [Julia Gusak](https://juliagusak.github.io) (INRIA Bordeaux)
 - Mariya Ishteva (Katholieke Universiteit Leuven)
 - [Bernard Mourrain](https://www-sop.inria.fr/members/Bernard.Mourrain/) (INRIA Sophia-Antipolis)
+- [Carolin Penke](https://www.fz-juelich.de/profile/penke_c) (Jülich Supercomputing Centre)
 - [Mark Sandler](https://www.seresearch.qmul.ac.uk/cmai/people/msandler/) (Queen Mary University of London)
 - [Francesco Tudisco](https://ftudisco.gitlab.io/) (University of Edinburgh)
 - [Yang Qi](https://sites.google.com/view/yangqi) (INRIA Saclay – Île-de-France)
