@@ -53,6 +53,14 @@ Regularized nonnegative low-rank approximations such as sparse Nonnegative Matri
 ### Bernard Mourrain
 *Low rank approximation of moment matrices and tensors*
 
+### Carolin Penke
+*Efficient Computation of Low-Rank Representations to Reduce Memory Requirements in LLM Training*
+
+**Abstract:**
+The OpenGPT-X project represents one of Europe's pioneering publicly funded efforts in the domain of large language models (LLMs), covering the entire lifecycle from pre-training foundational models to fine-tuning and practical application development.  To maximize the efficiency of training on High Performance Computing (HPC) resources, strategies aimed at reducing computational and memory demands are being explored. A promising avenue exploits the low-rank structure of gradients, as done in the LoRA or GaLore frameworks, the latter of which relies on the computation of dominant low-rank subspaces during training. The randomized range finder algorithm provides a more efficient alternative to computing a full singular value decomposition (SVD). We introduce a novel variant of the range finder, based on the blocked Householder QR decomposition, optimized for modern GPU accelerators.
+
+
+
 ### Mark Sandler
 *Artificial Neuroscience: metrology and engineering for Deep Learning using Linear Algebra*
 
