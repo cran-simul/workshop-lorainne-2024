@@ -18,7 +18,7 @@ Registration is free but mandatory (the capacity is limited), by 11 November at 
 - [Christophe Cerisara](https://members.loria.fr/CCerisara/) (CNRS-LORIA, Nancy)
 - [Jérémy Cohen](https://jeremy-e-cohen.jimdofree.com) (CNRS-CREATIS, Lyon)
 - [Julia Gusak](https://juliagusak.github.io) (INRIA Bordeaux)
-- Mariya Ishteva (Katholieke Universiteit Leuven)
+- [Mariya Ishteva](https://www.kuleuven.be/wieiswie/en/person/00050783) (Katholieke Universiteit Leuven)
 - [Bernard Mourrain](https://www-sop.inria.fr/members/Bernard.Mourrain/) (INRIA Sophia-Antipolis)
 - [Carolin Penke](https://www.fz-juelich.de/profile/penke_c) (Jülich Supercomputing Centre)
 - [Mark Sandler](https://www.seresearch.qmul.ac.uk/cmai/people/msandler/) (Queen Mary University of London)
