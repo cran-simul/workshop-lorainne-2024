@@ -43,8 +43,8 @@ Registration is free but mandatory (the capacity is limited), by 11 November at 
 |                | 17:30-19:00      | Cocktail + posters                      |
 | **Wed 26 Nov** |                  | **(Day 2)**                             |
 |                | 09:00-10:00      | Bernard Mourrain                        |
-|                | 10:30-11:00      | Jeremy Cohen                            |
-|                | 11:00-11:30      | Coffee break                            |
+|                | 10:00-10:30      | Jeremy Cohen                            |
+|                | 10:30-11:00      | Coffee break                            |
 |                | 11:00-12:00      | Julia Gusak                             |
 |                | 12:00-12:30      | Invited talk                            |
 |                | 12:30-14:00      | Lunch break                             |
