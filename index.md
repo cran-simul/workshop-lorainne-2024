@@ -92,6 +92,25 @@ The motivation for this shift in viewpoint comes from an observation that the me
  
 The presentation will explore further the parallels between AI and neuroscience and will use existing literature to show how several aspects of this viewpoint on the research landscape are already being explored in several labs. It will include a glimpse of our own latest results (submitted to ICLR 2025) that explores how training in low-rank domains can improve learning and reduce the demand for data.
 
+### Francesco Tudisco
+*Exploiting Low-Rank Geometry in Deep Learning*
+**Abstract:** As models and datasets grow, modern AI faces significant challenges related to timing, costs, energy consumption, and accessibility. To address these, there has been a surge of interest in network compression and parameter-efficient fine-tuning (PEFT) techniques to reduce computational overhead while maintaining model performance. In terms of compression, the majority of the existing methods focus on post-training pruning to reduce inference costs. However, an important subset tackles the reduction of training overhead, with layer factorization emerging as a key approach both for training and fine-tuning. In fact, recent empirical and theoretical findings indicate that deep networks exhibit an implicit low-rank bias, suggesting the existence of highly effective low-rank subnetworks. In this talk, I will present our recent work on analyzing and leveraging this low-rank bias for efficient model compression and fine-tuning. By exploiting the Riemannian geometry of low-rank spaces, we propose a geometry-aware variant of stochastic gradient descent that trains small, factorized layers while dynamically adjusting their rank. We provide theoretical guarantees on convergence and approximation, alongside experimental results demonstrating competitive performance across various state-of-the-art network architectures both in terms of pre-training and fine-tuning. 
+
+Based on:
+Geometry-aware training of factorized layers in tensor Tucker format
+Emanuele Zangrando, Steffen Schotthöfer, Jonas Kusch, Gianluca Ceruti, Francesco Tudisco
+Advances in Neural Information Processing Systems (NeurIPS), 2024
+ 
+Robust low-rank training via approximate orthonormal constraints
+Dayana Savostianova, Emanuele Zangrando, Gianluca Ceruti, Francesco Tudisco
+Advances in Neural Information Processing Systems (NeurIPS), 2023
+ 
+Low-rank lottery tickets: finding efficient low-rank neural networks via matrix differential equations
+Steffen Schotthöfer, Emanuele Zangrando, Jonas Kusch, Gianluca Ceruti, Francesco Tudisco
+Advances in Neural Information Processing Systems (NeurIPS), 2022
+ 
+
+
 ### Yang Qi
 *On the multi-spiked random tensor model*
 
@@ -106,6 +125,14 @@ The full list of posters will be announced shortly.
 *TBD*
 
 **Abstract:** TBD
+
+### Faustine Faccin (CRAN/LORIA/NOVIGA, Nancy)
+*ECG-based Deep Convolutional Recurrent Network with Attention Mechanism for Sleep Apnea Detection*
+**Abstract:** Sleep apnea syndrome (SAS) is a nocturnal respiratory disorder that can be associated with long-term cardiovascular complications. Alternative screening solutions are currently being developed to overcome the limitations of reference in-lab polysomnography. As the respiratory signal can be reconstructed from the electrocardiogram (ECG), the latter is all the more interesting as its recording is easy and non-invasive for the patient. The application of deep learning algorithms using ECGs has proved effective in classifying sleep-related pathological events.
+In this work, we propose a novel hybrid architecture to detect apneic episodes using single-lead ECGs. Following a preprocessing step, morphological and temporal components of interest are extracted through convolutional and recurrent blocks, respectively. Additional mechanisms are further integrated to enhance the classification. Models were trained and validated on a dataset derived from STAGES and Apnea-ECG databases. Influence of patient phenotype on classification was estimated by comparing the performance between several groups of patients with different clinical information.
+Overall, a model we have developed performs competitively with the best current methods by accurately classifying patients to different degrees of severity with average sensitivity, specificity and accuracy of 93.38%, 75.46% and 86.66%, respectively.
+
+
 
 ### Rima Khouja (Huawei, Paris)
 **Abstract:** We introduce an improved tensor-based modulation for unsourced massive random access that support more users. In this modulation scheme, transmitted symbols are modulated as rank one tensors.  One of the sub-constellation is designed as an optimized quasi-orthogonal constellation. This allows to consider an iterative decoding process over the elements of this sub-constellation, by coupling tensor decomposition and projection on the elements of the sub-constellation.
