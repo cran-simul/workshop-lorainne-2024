@@ -26,13 +26,34 @@ Registration is free but mandatory (the capacity is limited), by 11 November at 
 - [Yang Qi](https://sites.google.com/view/yangqi) (INRIA Saclay – Île-de-France)
 - [Yassine Zniyed](https://yzniyed.blogspot.com/p/about-me.html) (University of Toulon)
 
-We will be announcing the full list of speakers shortly.
+
+### Tentative schedule:
 
 
-## Preliminary Program
+| **Date**       | **Time**         | **Session**                             |
+|----------------|------------------|-----------------------------------------|
+| **Tue 26 Nov** |                  | **(Day 1)**                             |
+|                | 13:45-14:00      | Registration                            |
+|                | 14:00-14:15      | Opening remarks                         |
+|                | 14:15-15:15      | André de Almeida                        |
+|                | 15:15-15:45      | Mariya Ishteva                          |
+|                | 15:45-16:15      | Coffee break                            |
+|                | 16:15-17:15      | Francesco Tudisco                       |
+|                | 17:15-17:30      | Spotlight posters                       |
+|                | 17:30-19:00      | Cocktail + posters                      |
+| **Wed 26 Nov** |                  | **(Day 2)**                             |
+|                | 09:00-09:30      | Welcome coffee, registration            |
+|                | 09:30-10:30      | Bernard Mourrain                        |
+|                | 10:30-11:00      | Jeremy Cohen                            |
+|                | 11:00-11:30      | Coffee break                            |
+|                | 11:30-12:30      | Julia Gusak                             |
+|                | 12:30-14:00      | Lunch break                             |
+|                | 14:00-15:00      | Christophe Cerisara                     |
+|                | 15:00-15:30      | Invited talk                            |
+|                | 15:30-16:00      | Invited talk                            |
+|                | 16:00-17:00      | Farewell break                          |
 
-
-
+## Oral presentations
 
 ### André de Almeida
 *Overview of tensor decompositions and some applications to wireless communications*
@@ -78,36 +99,21 @@ The presentation will explore further the parallels between AI and neuroscience 
 *Network compression using tensor decompositions and pruning*
 
 
+## Poster session 
+The full list of posters will be announced shortly.
 
-### Tentative schedule:
+### Joppe De Jonghe (KU Leuven, Belgium)
+Tensor-based Neural Network Compression with Flexible Activation Functions*
 
+**Abstract:** TBD
 
-| **Date**       | **Time**         | **Session**                             |
-|----------------|------------------|-----------------------------------------|
-| **Tue 26 Nov** |                  | **(Day 1)**                             |
-|                | 13:45-14:00      | Registration                            |
-|                | 14:00-14:15      | Opening remarks                         |
-|                | 14:15-15:15      | André de Almeida                        |
-|                | 15:15-15:45      | Mariya Ishteva                          |
-|                | 15:45-16:15      | Coffee break                            |
-|                | 16:15-17:15      | Francesco Tudisco                       |
-|                | 17:15-17:30      | Spotlight posters                       |
-|                | 17:30-19:00      | Cocktail + posters                      |
-| **Wed 26 Nov** |                  | **(Day 2)**                             |
-|                | 09:00-09:30      | Welcome coffee, registration            |
-|                | 09:30-10:30      | Bernard Mourrain                        |
-|                | 10:30-11:00      | Jeremy Cohen                            |
-|                | 11:00-11:30      | Coffee break                            |
-|                | 11:30-12:30      | Julia Gusak                             |
-|                | 12:30-14:00      | Lunch break                             |
-|                | 14:00-15:00      | Christophe Cerisara                     |
-|                | 15:00-15:30      | Invited talk                            |
-|                | 15:30-16:00      | Invited talk                            |
-|                | 16:00-17:00      | Farewell break                          |
+### Rima Khouja (Huawei, Paris)
+**Abstract:** We introduce an improved tensor-based modulation for unsourced massive random access that support more users. In this modulation scheme, transmitted symbols are modulated as rank one tensors.  One of the sub-constellation is designed as an optimized quasi-orthogonal constellation. This allows to consider an iterative decoding process over the elements of this sub-constellation, by coupling tensor decomposition and projection on the elements of the sub-constellation.
 
+### Fabio Matti (EPFL, Switzerland)
+*Randomized trace estimation for parameter-dependent matrices applied to neural network optimization*
 
-
-
+**Abstract:** Randomized trace estimators are a family of well established techniques for approximating traces of large matrices which are only accessed through matrix-vector products. These methods have been studied in detail for constant matrices $\boldsymbol{B}$. We analyze three of these methods, the Girard-Hutchinson, Nyström, and Nyström++ estimators, when they are applied to parameter-dependent matrices $\boldsymbol{B}(t)$ which continuously depend on a real parameter $t \in [a, b]$. Instead of applying a separate estimator to each value of the parameter $t_1, t_2, \dots$ in which the trace is approximated, we reuse the same random vectors to construct a single estimator which approximates the trace in all values of the parameter $t$ simultaneously. This makes the methods scale favorably in terms of the number of parameter values at which the estimate is evaluated and allows us to derive error bounds for each of the methods which closely match existing results for constant matrices. Subsequently, we show that these estimators can be used to efficiently approximate the spectral density, i.e. the distribution of the eigenvalues of the Hessian matrix of a neural network, which reflects the geometry of the loss landscape around the iterates from an optimization process.
 
 
 ## Contact Us
