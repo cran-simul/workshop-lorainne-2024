@@ -144,6 +144,15 @@ Overall, a model we have developed performs competitively with the best current 
 
 **Abstract:** Randomized trace estimators are a family of well established techniques for approximating traces of large matrices which are only accessed through matrix-vector products. These methods have been studied in detail for constant matrices $\boldsymbol{B}$. We analyze three of these methods, the Girard-Hutchinson, Nyström, and Nyström++ estimators, when they are applied to parameter-dependent matrices $\boldsymbol{B}(t)$ which continuously depend on a real parameter $t \in [a, b]$. Instead of applying a separate estimator to each value of the parameter $t_1, t_2, \dots$ in which the trace is approximated, we reuse the same random vectors to construct a single estimator which approximates the trace in all values of the parameter $t$ simultaneously. This makes the methods scale favorably in terms of the number of parameter values at which the estimate is evaluated and allows us to derive error bounds for each of the methods which closely match existing results for constant matrices. Subsequently, we show that these estimators can be used to efficiently approximate the spectral density, i.e. the distribution of the eigenvalues of the Hessian matrix of a neural network, which reflects the geometry of the loss landscape around the iterates from an optimization process.
 
+### Irina Proskurina (ERIC, Université de Lyon)
+*Combating Biased Outcomes of Low-Rank Adaptation of Large Models*
+
+**Abstract:** Low-Rank Adaptation (LoRA) helps avoid full-scale fine-tuning of large language models, paving the way for lower training costs. However, training only a subset of weights can lead to biased outcomes, such as an increased probability of toxic speech generation, particularly in multilingual contexts. Models fine-tuned with LoRA also exhibit lower fairness in classification tasks, especially with respect to subgroup accuracy, compared to full-scale training. 
+These issues are exacerbated when fine-tuning models with QLoRA, which involves quantizing the weights in conjunction with LoRA. We question how to mitigate these effects arising from using QLoRA while preserving the weight size reduction achieved through quantization for efficiency. 
+Our aim is to develop subgroup-fairness-aware regularization approaches to address the problem of biased outcomes.
+
+
+
 
 ## Contact Us
 
