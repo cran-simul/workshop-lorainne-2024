@@ -103,7 +103,7 @@ The presentation will explore further the parallels between AI and neuroscience 
 The full list of posters will be announced shortly.
 
 ### Joppe De Jonghe (KU Leuven, Belgium)
-Tensor-based Neural Network Compression with Flexible Activation Functions*
+*Tensor-based Neural Network Compression with Flexible Activation Functions*
 
 **Abstract:** TBD
 
