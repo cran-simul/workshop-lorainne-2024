@@ -42,16 +42,16 @@ Registration is free but mandatory (the capacity is limited), by 11 November at 
 |                | 17:15-17:30      | Spotlight posters                       |
 |                | 17:30-19:00      | Cocktail + posters                      |
 | **Wed 26 Nov** |                  | **(Day 2)**                             |
-|                | 09:00-09:30      | Welcome coffee, registration            |
-|                | 09:30-10:30      | Bernard Mourrain                        |
+|                | 09:00-10:00      | Bernard Mourrain                        |
 |                | 10:30-11:00      | Jeremy Cohen                            |
 |                | 11:00-11:30      | Coffee break                            |
-|                | 11:30-12:30      | Julia Gusak                             |
+|                | 11:00-12:00      | Julia Gusak                             |
+|                | 12:00-12:30      | Invited talk                            |
 |                | 12:30-14:00      | Lunch break                             |
 |                | 14:00-15:00      | Christophe Cerisara                     |
 |                | 15:00-15:30      | Invited talk                            |
 |                | 15:30-16:00      | Invited talk                            |
-|                | 16:00-17:00      | Farewell break                          |
+|                | 16:00-17:00      | Farewell coffee break                   |
 
 ## Oral presentations
 
