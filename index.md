@@ -151,6 +151,13 @@ The proposed methodology is illustrated on both synthetic and neural network exa
 In this work, we propose a novel hybrid architecture to detect apneic episodes using single-lead ECGs. Following a preprocessing step, morphological and temporal components of interest are extracted through convolutional and recurrent blocks, respectively. Additional mechanisms are further integrated to enhance the classification. Models were trained and validated on a dataset derived from STAGES and Apnea-ECG databases. Influence of patient phenotype on classification was estimated by comparing the performance between several groups of patients with different clinical information.
 Overall, a model we have developed performs competitively with the best current methods by accurately classifying patients to different degrees of severity with average sensitivity, specificity and accuracy of 93.38%, 75.46% and 86.66%, respectively.
 
+### Arthur Lebeurrier (ENS Lyon)
+*Hierarchical Matrix Approximation for Accelerated Regularized Optimal Transport*
+
+**Abstract:** Optimal Transport (OT) is a mathematical framework for determining the most efficient way to move one distribution of mass to another while minimizing a certain cost. Despite its broad applications, ranging in machine learning, its computational complexity remains a bottleneck for large datasets. The Sinkhorn algorithm, a state-of-the-art method for regularized OT, suffers from a quadratic complexity, $O(n^2)$, due to repeated matrix-vector multiplications.
+This work introduces a hierarchical approximation algorithm inspired by the Barnes-Hut method and partitioning trees, such as the k-d tree. Our method decomposes the kernel matrix into low-rank and dense blocks, optimizing the computational cost to $O(n\log n)$ while ensuring controlled approximation errors. The hierarchical approach leverages spatial relationships between data points to approximate interactions efficiently, balancing computational efficiency and accuracy.
+We validate our method theoretically and experimentally, showcasing significant computational gains in synthetic benchmarks and classification tasks. These results highlight the potential of our hierarchical approximation framework to extend OT applications to high-dimensional, large-scale datasets while maintaining performance in practical machine learning scenarios.
+
 
 
 ### Rima Khouja (Huawei, Paris)
