@@ -93,6 +93,15 @@ The motivation for this shift in viewpoint comes from an observation that the me
  
 The presentation will explore further the parallels between AI and neuroscience and will use existing literature to show how several aspects of this viewpoint on the research landscape are already being explored in several labs. It will include a glimpse of our own latest results (submitted to ICLR 2025) that explores how training in low-rank domains can improve learning and reduce the demand for data.
 
+### Romain Serizel
+*Monitoring Environmental Impact of AI Systems: why and how?*
+
+**Abstract:**
+With the increasingly complex models used in machine learning and the large amount of data needed to train these models, machine learning based solutions can have a large environmental impact. Even if a few hundred experiments are sometimes needed to train a working model, the cost of the training phase represents only 10% to 20% of the total CO2 emissions of the related machine learning usage (the rest lying in the inference phase). Yet, as machine learning researchers the largest part of our energy consumption lays in the training phase. Comparing the energy consumption of system trained on different site can be a complex task and the relation between the system performance and its energy footprint can be uneasy to interpret. In this presentation we will study the energy consumption measurement under various configurations to assess the aspects that can potentially affect the measure of the energy consumption.
+
+
+
+
 ### Francesco Tudisco
 *Exploiting Low-Rank Geometry in Deep Learning*
 
