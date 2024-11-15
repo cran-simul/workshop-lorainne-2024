@@ -159,7 +159,12 @@ Overall, a model we have developed performs competitively with the best current 
 These issues are exacerbated when fine-tuning models with QLoRA, which involves quantizing the weights in conjunction with LoRA. We question how to mitigate these effects arising from using QLoRA while preserving the weight size reduction achieved through quantization for efficiency. 
 Our aim is to develop subgroup-fairness-aware regularization approaches to address the problem of biased outcomes.
 
+### Konstantin Usevich (CRAN-CNRS, Nancy)
+*A lifting approach to ParaTuck-2 tensor decompositions*
 
+**Abstract:** The ParaTuck-2 decomposition (PT2D) of third-order tensor is a two-layer generalization of the well-known canonical polyadic decomposition (CPD). While being more flexible than the CPD, the PT2D also possesses similar uniqueness properties.
+In this paper, we show than under the best known uniqueness conditions, the exact PT2D can be computed by an algebraic algorithm (i.e., can the PT2D problems can be reduced to computing nullspaces and eigenvalues of certain matrices).
+We do so by lifting the slices of the tensor to higher-dimensional space, which also allows for refining the existing uniqueness conditions. The algorithms are developed for general PT2D and its symmetric version (DEDICOM), which leads to an algebraic algorithm for another generalization of the CPD, the PARAFAC2 decomposition. Our methods are also applicable in the approximation scenario, as shown by the numerical experiments.
 
 
 ## Contact Us
