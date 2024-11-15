@@ -22,6 +22,7 @@ Registration is free but mandatory (the capacity is limited), by 18 November at 
 - [Bernard Mourrain](https://www-sop.inria.fr/members/Bernard.Mourrain/) (INRIA Sophia-Antipolis)
 - [Carolin Penke](https://www.fz-juelich.de/profile/penke_c) (Jülich Supercomputing Centre)
 - [Mark Sandler](https://www.seresearch.qmul.ac.uk/cmai/people/msandler/) (Queen Mary University of London)
+- [Romain Serizel](https://members.loria.fr/RSerizel/) (LORIA, Nancy)
 - [Francesco Tudisco](https://ftudisco.gitlab.io/) (University of Edinburgh)
 - [Yang Qi](https://sites.google.com/view/yangqi) (INRIA Saclay – Île-de-France)
 - [Yassine Zniyed](https://yzniyed.blogspot.com/p/about-me.html) (University of Toulon)
