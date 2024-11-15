@@ -124,9 +124,16 @@ Advances in Neural Information Processing Systems (NeurIPS), 2022
 The full list of posters will be announced shortly.
 
 ### Joppe De Jonghe (KU Leuven, Belgium)
-*TBD*
+*Multilayer Tensor-based Neural Network Compression with Flexible Activation Functions*
 
-**Abstract:** TBD
+**Abstract:** The nonlinear activation functions used in deep neural networks are typically fixed simple functions, leading to a large number of neurons and hidden layers. To reduce the number of parameters, pruning or compression techniques are often considered. Alternatively, flexible activation functions can be considered but learning them during the training process is not straightforward.
+In this paper, we develop a compression methodology that decomposes a given pre-trained model into a decoupled representation that has the structure of a (multiple-layer) neural network with flexible activation functions. 
+The multi-layer function structure is linked to a ParaTuck-$L$ tensor decomposition by considering the first-order derivative information.
+To reduce the approximation error on the initial function (and not only of its derivatives),
+the multi-layer decoupling method ultimately reduces to solving a coupled matrix-tensor factorization problem. 
+We propose two alternating least squares-based algorithms for computing the (constrained) decomposition, including tailored strategies for the order of updates, updating the regularization parameter, and
+properly handling the bias terms in the case of analytic activation functions.
+The proposed methodology is illustrated on both synthetic and neural network examples. 
 
 ### Faustine Faccin (CRAN/LORIA/NOVIGA, Nancy)
 *ECG-based Deep Convolutional Recurrent Network with Attention Mechanism for Sleep Apnea Detection*
