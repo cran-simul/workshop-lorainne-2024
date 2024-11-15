@@ -145,6 +145,8 @@ Overall, a model we have developed performs competitively with the best current 
 
 
 ### Rima Khouja (Huawei, Paris)
+*Quasi-Orthogonal Tensor-Based Modulation for Unsourced Massive Random Access*
+
 **Abstract:** We introduce an improved tensor-based modulation for unsourced massive random access that support more users. In this modulation scheme, transmitted symbols are modulated as rank one tensors.  One of the sub-constellation is designed as an optimized quasi-orthogonal constellation. This allows to consider an iterative decoding process over the elements of this sub-constellation, by coupling tensor decomposition and projection on the elements of the sub-constellation.
 
 ### Fabio Matti (EPFL, Switzerland)
