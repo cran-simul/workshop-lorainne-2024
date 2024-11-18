@@ -34,25 +34,27 @@ Registration is free but mandatory (the capacity is limited), by 18 November at 
 | **Date**       | **Time**         | **Session**                             |
 |----------------|------------------|-----------------------------------------|
 | **Tue 26 Nov** |                  | **(Day 1)**                             |
-|                | 13:45-14:00      | Registration                            |
-|                | 14:00-14:15      | Opening remarks                         |
-|                | 14:15-15:15      | André de Almeida                        |
-|                | 15:15-15:45      | Mariya Ishteva                          |
-|                | 15:45-16:15      | Coffee break                            |
-|                | 16:15-17:15      | Francesco Tudisco                       |
-|                | 17:15-17:30      | Spotlight posters                       |
-|                | 17:30-19:00      | Cocktail + posters                      |
+|                | 13:15-13:45      | Registration                            |
+|                | 13:45-14:00      | Opening remarks                         |
+|                | 14:00-15:00      | André de Almeida                        |
+|                | 15:00-15:30      | Mariya Ishteva                          |
+|                | 15:30-16:00      | Coffee break                            |
+|                | 16:00-17:00      | Francesco Tudisco                       |
+|                | 17:05-17:30      | Yang Qi                                 |
+|                | 17:30-19:00      | Cocktail + poster session               |
 | **Wed 27 Nov** |                  | **(Day 2)**                             |
 |                | 09:00-10:00      | Bernard Mourrain                        |
-|                | 10:00-10:30      | Jeremy Cohen                            |
+|                | 10:00-10:30      | Jérémy Cohen                            |
 |                | 10:30-11:00      | Coffee break                            |
 |                | 11:00-12:00      | Julia Gusak                             |
-|                | 12:00-12:30      | Invited talk                            |
+|                | 12:00-12:30      | Yassine Zniyed                          |
 |                | 12:30-14:00      | Lunch break                             |
-|                | 14:00-15:00      | Christophe Cerisara                     |
-|                | 15:00-15:30      | Invited talk                            |
-|                | 15:30-16:00      | Invited talk                            |
-|                | 16:00-17:00      | Farewell coffee break                   |
+|                | 14:00-14:45      | Christophe Cerisara                     |
+|                | 14:45-15:15      | Carolin Penke                           |
+|                | 15:15-15:45      | Coffee break                            |
+|                | 15:15-15:45      | Mark Sandler                            |
+|                | 15:15-15:45      | Romain Serizel                          |
+|                | 16:45-17:00      | Farewell                                |
 
 ## Oral presentations
 
@@ -98,9 +100,6 @@ The presentation will explore further the parallels between AI and neuroscience 
 
 **Abstract:**
 With the increasingly complex models used in machine learning and the large amount of data needed to train these models, machine learning based solutions can have a large environmental impact. Even if a few hundred experiments are sometimes needed to train a working model, the cost of the training phase represents only 10% to 20% of the total CO2 emissions of the related machine learning usage (the rest lying in the inference phase). Yet, as machine learning researchers the largest part of our energy consumption lays in the training phase. Comparing the energy consumption of system trained on different site can be a complex task and the relation between the system performance and its energy footprint can be uneasy to interpret. In this presentation we will study the energy consumption measurement under various configurations to assess the aspects that can potentially affect the measure of the energy consumption.
-
-
-
 
 ### Francesco Tudisco
 *Exploiting Low-Rank Geometry in Deep Learning*
