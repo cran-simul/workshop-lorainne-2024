@@ -122,7 +122,9 @@ Advances in Neural Information Processing Systems (NeurIPS), 2022
 
 
 ### Yang Qi
-*On the multi-spiked random tensor model*
+*The statistical limits of multi-spiked random tensor models*
+
+**Abstract:** Numerous problems in signal processing, machine learning, and data analysis are based on the low-rank tensor model, a.k.a. the multi-spiked tensor model, where we would like to recover the hidden low-rank structure from a noisy observed tensor data. Though several algorithms have been proposed for low-rank approximations, little is known about the corresponding performance analyses and statistical limits. In this talk, we will focus on the statistical performance of the local methods designed for low-rank approximations. More precisely, thanks to the nature of local optimization methods used to find the maximum likelihood estimator of the multi-spiked Gaussian tensor model, we propose to study the phase transition phenomenon for finding critical points of the corresponding optimization problem, i.e., those points defined by the KKT conditions. In particular, we obtain a threshold above which the detection of critical points is possible. Moreover, we characterize the limiting alignments between the maximum-likelihood estimators and the ground truth signals. With the help of these results, we achieve a new estimator by modifying the classical maximum likelihood estimator.
 
 ### Yassine Zniyed
 *Network compression using tensor decompositions and pruning*
