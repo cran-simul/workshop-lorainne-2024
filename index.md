@@ -40,7 +40,7 @@ Registration is free but mandatory (the capacity is limited), by 18 November at 
 |                | 15:00-15:30      | Mariya Ishteva                          |
 |                | 15:30-16:00      | Coffee break                            |
 |                | 16:00-17:00      | Francesco Tudisco                       |
-|                | 17:05-17:30      | Yang Qi                                 |
+|                | 17:00-17:30      | Yang Qi                                 |
 |                | 17:30-19:00      | Cocktail + poster session               |
 | **Wed 27 Nov** |                  | **(Day 2)**                             |
 |                | 09:00-10:00      | Bernard Mourrain                        |
@@ -52,8 +52,8 @@ Registration is free but mandatory (the capacity is limited), by 18 November at 
 |                | 14:00-14:45      | Christophe Cerisara                     |
 |                | 14:45-15:15      | Carolin Penke                           |
 |                | 15:15-15:45      | Coffee break                            |
-|                | 15:15-15:45      | Mark Sandler                            |
-|                | 15:15-15:45      | Romain Serizel                          |
+|                | 15:45-16:15      | Mark Sandler                            |
+|                | 16:15-16:45      | Romain Serizel                          |
 |                | 16:45-17:00      | Farewell                                |
 
 ## Oral presentations
