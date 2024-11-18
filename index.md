@@ -42,7 +42,7 @@ Registration is free but mandatory (the capacity is limited), by 18 November at 
 |                | 16:15-17:15      | Francesco Tudisco                       |
 |                | 17:15-17:30      | Spotlight posters                       |
 |                | 17:30-19:00      | Cocktail + posters                      |
-| **Wed 26 Nov** |                  | **(Day 2)**                             |
+| **Wed 27 Nov** |                  | **(Day 2)**                             |
 |                | 09:00-10:00      | Bernard Mourrain                        |
 |                | 10:00-10:30      | Jeremy Cohen                            |
 |                | 10:30-11:00      | Coffee break                            |
