@@ -36,7 +36,7 @@ Registration is free but mandatory (the capacity is limited), by 18 November at 
 | **Tue 26 Nov** |                  | **(Day 1)**                             |
 |                | 13:15-13:45      | Registration                            |
 |                | 13:45-14:00      | Opening remarks                         |
-|                | 14:00-15:00      | André de Almeida                        |
+|                | 14:00-15:00      | [André de Almeida](#dealmeida)            |
 |                | 15:00-15:30      | Mariya Ishteva                          |
 |                | 15:30-16:00      | Coffee break                            |
 |                | 16:00-17:00      | Francesco Tudisco                       |
@@ -58,7 +58,7 @@ Registration is free but mandatory (the capacity is limited), by 18 November at 
 
 ## Oral presentations
 
-### André de Almeida
+### [André de Almeida](#dealmeida)
 *Overview of tensor decompositions and some applications to wireless communications*
 
 ### Christophe Cerisara
