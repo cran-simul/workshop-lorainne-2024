@@ -36,32 +36,80 @@ Registration is free but mandatory (the capacity is limited), by 21 November at 
 | **Tue 26 Nov** |                  | **(Day 1)**                             |
 |                | 13:15-13:45      | Registration                            |
 |                | 13:45-14:00      | Opening remarks                         |
-|                | 14:00-15:00      | André de Almeida                        |
-|                | 15:00-15:30      | Mariya Ishteva                          |
+|                | 14:00-15:00      | André de Almeida (keynote) <br>  *Overview of tensor decompositions and some applications to wireless communications*                    |
+|                | 15:00-15:30      | Mariya Ishteva <br>  *Decoupling multivariate functions using tensors*   |
 |                | 15:30-16:00      | Coffee break                            |
-|                | 16:00-17:00      | Francesco Tudisco                       |
-|                | 17:00-17:30      | Yang Qi                                 |
+|                | 16:00-17:00      | Francesco Tudisco (keynote) <br> *Exploiting Low-Rank Geometry in Deep Learning*  |
+|                | 17:00-17:30      | Yang Qi <br> *The statistical limits of multi-spiked random tensor models* |
 |                | 17:30-19:00      | Cocktail + poster session               |
 | **Wed 27 Nov** |                  | **(Day 2)**                             |
-|                | 09:00-10:00      | Bernard Mourrain                        |
-|                | 10:00-10:30      | Jérémy Cohen                            |
+|                | 09:00-10:00      | Bernard Mourrain (keynote) <br>   *Low rank approximation of moment matrices and tensors*                    |
+|                | 10:00-10:30      | Jérémy Cohen  <br>  *Implicit Regularization in Regularized (Nonnegative) Low-Rank Approximations*     |
 |                | 10:30-11:00      | Coffee break                            |
-|                | 11:00-12:00      | Julia Gusak                             |
-|                | 12:00-12:30      | Yassine Zniyed                          |
+|                | 11:00-12:00      | Julia Gusak  (keynote) <br> *TBD*                           |
+|                | 12:00-12:30      | Yassine Zniyed <br> *Network compression using tensor decompositions and pruning*  |
 |                | 12:30-14:00      | Lunch break                             |
-|                | 14:00-14:45      | Christophe Cerisara                     |
-|                | 14:45-15:15      | Carolin Penke                           |
+|                | 14:00-14:45      | Christophe Cerisara (keynote) <br> *Low-rank compression of LLMs*    |
+|                | 14:45-15:15      | Carolin Penke <br>  *Efficient Computation of Low-Rank Representations to Reduce Memory Requirements in LLM Training*   |
 |                | 15:15-15:45      | Coffee break                            |
-|                | 15:45-16:15      | Mark Sandler                            |
-|                | 16:15-16:45      | Romain Serizel                          |
+|                | 15:45-16:15      | Mark Sandler <br>  *Artificial Neuroscience: metrology and engineering for Deep Learning using Linear Algebra*  |
+|                | 16:15-16:45      | Romain Serizel <br>  *Monitoring Environmental Impact of AI Systems: why and how?* |
 |                | 16:45-17:00      | Farewell                                |
 
-## Oral presentations
+## Tuesday 26 November (afternoon)
 
 ### André de Almeida
 *Overview of tensor decompositions and some applications to wireless communications*
 
 Tensor decompositions are powerful tools in various application fields, including wireless communications, blind source separation, biomedical signal processing, exploratory data analysis, and machine learning. In this talk, after a brief overview of popular tensor decompositions, we discuss constrained tensor decompositions, which incorporate constraint matrices to model linear dependencies among columns of the factor matrices. This includes the so-called PARALIND/CONFAC and PARATUCK decompositions. Generalized versions of these tensor decompositions and links between them are also highlighted. We also discuss Nested-PARAFAC and Nested-Tucker decompositions. Then, some key applications of tensor decompositions to wireless communications and signal processing are also presented.
+
+### Mariya Ishteva
+*Decoupling multivariate functions using tensors*
+
+**Abstract:** TBD
+
+### Francesco Tudisco
+*Exploiting Low-Rank Geometry in Deep Learning*
+
+**Abstract:** As models and datasets grow, modern AI faces significant challenges related to timing, costs, energy consumption, and accessibility. To address these, there has been a surge of interest in network compression and parameter-efficient fine-tuning (PEFT) techniques to reduce computational overhead while maintaining model performance. In terms of compression, the majority of the existing methods focus on post-training pruning to reduce inference costs. However, an important subset tackles the reduction of training overhead, with layer factorization emerging as a key approach both for training and fine-tuning. In fact, recent empirical and theoretical findings indicate that deep networks exhibit an implicit low-rank bias, suggesting the existence of highly effective low-rank subnetworks. In this talk, I will present our recent work on analyzing and leveraging this low-rank bias for efficient model compression and fine-tuning. By exploiting the Riemannian geometry of low-rank spaces, we propose a geometry-aware variant of stochastic gradient descent that trains small, factorized layers while dynamically adjusting their rank. We provide theoretical guarantees on convergence and approximation, alongside experimental results demonstrating competitive performance across various state-of-the-art network architectures both in terms of pre-training and fine-tuning. 
+
+Based on:
+Geometry-aware training of factorized layers in tensor Tucker format
+Emanuele Zangrando, Steffen Schotthöfer, Jonas Kusch, Gianluca Ceruti, Francesco Tudisco
+Advances in Neural Information Processing Systems (NeurIPS), 2024
+ 
+Robust low-rank training via approximate orthonormal constraints
+Dayana Savostianova, Emanuele Zangrando, Gianluca Ceruti, Francesco Tudisco
+Advances in Neural Information Processing Systems (NeurIPS), 2023
+ 
+Low-rank lottery tickets: finding efficient low-rank neural networks via matrix differential equations
+Steffen Schotthöfer, Emanuele Zangrando, Jonas Kusch, Gianluca Ceruti, Francesco Tudisco
+Advances in Neural Information Processing Systems (NeurIPS), 2022
+ 
+### Yang Qi
+*The statistical limits of multi-spiked random tensor models*
+
+**Abstract:** Numerous problems in signal processing, machine learning, and data analysis are based on the low-rank tensor model, a.k.a. the multi-spiked tensor model, where we would like to recover the hidden low-rank structure from a noisy observed tensor data. Though several algorithms have been proposed for low-rank approximations, little is known about the corresponding performance analyses and statistical limits. In this talk, we will focus on the statistical performance of the local methods designed for low-rank approximations. More precisely, thanks to the nature of local optimization methods used to find the maximum likelihood estimator of the multi-spiked Gaussian tensor model, we propose to study the phase transition phenomenon for finding critical points of the corresponding optimization problem, i.e., those points defined by the KKT conditions. In particular, we obtain a threshold above which the detection of critical points is possible. Moreover, we characterize the limiting alignments between the maximum-likelihood estimators and the ground truth signals. With the help of these results, we achieve a new estimator by modifying the classical maximum likelihood estimator.
+
+
+## Tuesday 27 November (morning)
+
+### Bernard Mourrain
+*Low rank approximation of moment matrices and tensors*
+
+### Jérémy Cohen
+*Implicit Regularization in Regularized (Nonnegative) Low-Rank Approximations* 
+
+**Abstract:**
+Regularized nonnegative low-rank approximations such as sparse Nonnegative Matrix Factorization or Sparse Nonnegative Tucker Decomposition are an important branch of dimensionality reduction models with enhanced interpretability. However, from a practical perspective, the choice of regularizers and regularization coefficients is often challenging because of the multifactor nature of these models and the lack of theory to back these choices. The work presented aims at improving upon these issues. By studying a more general model called the Homogeneous Regularized Scale-Invariant, we prove that the scale- invariance inherent to low-rank approximation models causes an implicit regularization with unexpected effects. This observation enables to better understand the effect of regularization functions in low-rank approximation models, to guide the choice of the regularization hyperparameters, and to design balancing strategies to enhance the convergence speed of dedicated optimization algorithms. We showcase our contributions on sparse Nonnegative Matrix Factorization, ridge-regularized Canonical Polyadic decomposition and sparse Nonnegative Tucker Decomposition.
+
+### Julia Gusak
+*TBD*
+
+### Yassine Zniyed
+*Network compression using tensor decompositions and pruning*
+
+## Tuesday 27 November (afternoon)
 
 ### Christophe Cerisara
 *Low-rank compression of LLMs*
@@ -76,18 +124,9 @@ method generalizes to non-linear layers and we demonstrate its efficiency
 on state-of-the-art transformer LLMs, but also on Mamba and speech-text Whisper models.
 
 
-### Jérémy Cohen
-*Implicit Regularization in Regularized (Nonnegative) Low-Rank Approximations* 
-
-**Abstract:**
-Regularized nonnegative low-rank approximations such as sparse Nonnegative Matrix Factorization or Sparse Nonnegative Tucker Decomposition are an important branch of dimensionality reduction models with enhanced interpretability. However, from a practical perspective, the choice of regularizers and regularization coefficients is often challenging because of the multifactor nature of these models and the lack of theory to back these choices. The work presented aims at improving upon these issues. By studying a more general model called the Homogeneous Regularized Scale-Invariant, we prove that the scale- invariance inherent to low-rank approximation models causes an implicit regularization with unexpected effects. This observation enables to better understand the effect of regularization functions in low-rank approximation models, to guide the choice of the regularization hyperparameters, and to design balancing strategies to enhance the convergence speed of dedicated optimization algorithms. We showcase our contributions on sparse Nonnegative Matrix Factorization, ridge-regularized Canonical Polyadic decomposition and sparse Nonnegative Tucker Decomposition.
-
-### Mariya Ishteva
-*Decoupling multivariate functions using tensors*
 
 
-### Bernard Mourrain
-*Low rank approximation of moment matrices and tensors*
+
 
 ### Carolin Penke
 *Efficient Computation of Low-Rank Representations to Reduce Memory Requirements in LLM Training*
@@ -113,33 +152,6 @@ The presentation will explore further the parallels between AI and neuroscience 
 **Abstract:**
 With the increasingly complex models used in machine learning and the large amount of data needed to train these models, machine learning based solutions can have a large environmental impact. Even if a few hundred experiments are sometimes needed to train a working model, the cost of the training phase represents only 10% to 20% of the total CO2 emissions of the related machine learning usage (the rest lying in the inference phase). Yet, as machine learning researchers the largest part of our energy consumption lays in the training phase. Comparing the energy consumption of system trained on different site can be a complex task and the relation between the system performance and its energy footprint can be uneasy to interpret. In this presentation we will study the energy consumption measurement under various configurations to assess the aspects that can potentially affect the measure of the energy consumption.
 
-### Francesco Tudisco
-*Exploiting Low-Rank Geometry in Deep Learning*
-
-**Abstract:** As models and datasets grow, modern AI faces significant challenges related to timing, costs, energy consumption, and accessibility. To address these, there has been a surge of interest in network compression and parameter-efficient fine-tuning (PEFT) techniques to reduce computational overhead while maintaining model performance. In terms of compression, the majority of the existing methods focus on post-training pruning to reduce inference costs. However, an important subset tackles the reduction of training overhead, with layer factorization emerging as a key approach both for training and fine-tuning. In fact, recent empirical and theoretical findings indicate that deep networks exhibit an implicit low-rank bias, suggesting the existence of highly effective low-rank subnetworks. In this talk, I will present our recent work on analyzing and leveraging this low-rank bias for efficient model compression and fine-tuning. By exploiting the Riemannian geometry of low-rank spaces, we propose a geometry-aware variant of stochastic gradient descent that trains small, factorized layers while dynamically adjusting their rank. We provide theoretical guarantees on convergence and approximation, alongside experimental results demonstrating competitive performance across various state-of-the-art network architectures both in terms of pre-training and fine-tuning. 
-
-Based on:
-Geometry-aware training of factorized layers in tensor Tucker format
-Emanuele Zangrando, Steffen Schotthöfer, Jonas Kusch, Gianluca Ceruti, Francesco Tudisco
-Advances in Neural Information Processing Systems (NeurIPS), 2024
- 
-Robust low-rank training via approximate orthonormal constraints
-Dayana Savostianova, Emanuele Zangrando, Gianluca Ceruti, Francesco Tudisco
-Advances in Neural Information Processing Systems (NeurIPS), 2023
- 
-Low-rank lottery tickets: finding efficient low-rank neural networks via matrix differential equations
-Steffen Schotthöfer, Emanuele Zangrando, Jonas Kusch, Gianluca Ceruti, Francesco Tudisco
-Advances in Neural Information Processing Systems (NeurIPS), 2022
- 
-
-
-### Yang Qi
-*The statistical limits of multi-spiked random tensor models*
-
-**Abstract:** Numerous problems in signal processing, machine learning, and data analysis are based on the low-rank tensor model, a.k.a. the multi-spiked tensor model, where we would like to recover the hidden low-rank structure from a noisy observed tensor data. Though several algorithms have been proposed for low-rank approximations, little is known about the corresponding performance analyses and statistical limits. In this talk, we will focus on the statistical performance of the local methods designed for low-rank approximations. More precisely, thanks to the nature of local optimization methods used to find the maximum likelihood estimator of the multi-spiked Gaussian tensor model, we propose to study the phase transition phenomenon for finding critical points of the corresponding optimization problem, i.e., those points defined by the KKT conditions. In particular, we obtain a threshold above which the detection of critical points is possible. Moreover, we characterize the limiting alignments between the maximum-likelihood estimators and the ground truth signals. With the help of these results, we achieve a new estimator by modifying the classical maximum likelihood estimator.
-
-### Yassine Zniyed
-*Network compression using tensor decompositions and pruning*
 
 
 ## Poster session 
