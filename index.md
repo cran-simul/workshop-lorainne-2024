@@ -157,6 +157,12 @@ With the increasingly complex models used in machine learning and the large amou
 ## Poster session 
 The full list of posters will be announced shortly.
 
+### Saulo Barreto (CRAN, Nancy)
+Physically-constrained block-term tensor decomposition for polarimetric image recovery*
+
+***Abstract:*** This work introduces a complete approach for recovering polarimetric images from experimental intensity measurements. In many applications, such images collect, at each pixel, a Stokes vector encoding the polarization state of light. By representing a Stokes vector image as a third-order tensor, we propose a new physically constrained block-term tensor decomposition called Stokes-BTD. The proposed model is flexible and comes with broad identifiability guarantees. Moreover, physical constraints ensure meaningful interpretation of low-rank terms as Stokes vectors. In practice, Stokes images must be recovered from indirect, intensity measurements. To this aim, we implement two recovery algorithms for StokesBTD based on constrained alternated optimization and highlight constraints related to Stokes vectors. Numerical experiments on synthetic and real data illustrate the potential of the approach.
+
+
 ### Joppe De Jonghe (KU Leuven, Belgium)
 *Multilayer Tensor-based Neural Network Compression with Flexible Activation Functions*
 
