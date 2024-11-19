@@ -36,7 +36,7 @@ Registration is free but mandatory (the capacity is limited), by 21 November at 
 | **Tue 26 Nov** |                  | **(Day 1)**                             |
 |                | 13:15-13:45      | Registration                            |
 |                | 13:45-14:00      | Opening remarks                         |
-|                | 14:00-15:00      | [André de Almeida](#andré-de-almeida)   |
+|                | 14:00-15:00      | André de Almeida                        |
 |                | 15:00-15:30      | Mariya Ishteva                          |
 |                | 15:30-16:00      | Coffee break                            |
 |                | 16:00-17:00      | Francesco Tudisco                       |
@@ -61,8 +61,20 @@ Registration is free but mandatory (the capacity is limited), by 21 November at 
 ### André de Almeida
 *Overview of tensor decompositions and some applications to wireless communications*
 
+Tensor decompositions are powerful tools in various application fields, including wireless communications, blind source separation, biomedical signal processing, exploratory data analysis, and machine learning. In this talk, after a brief overview of popular tensor decompositions, we discuss constrained tensor decompositions, which incorporate constraint matrices to model linear dependencies among columns of the factor matrices. This includes the so-called PARALIND/CONFAC and PARATUCK decompositions. Generalized versions of these tensor decompositions and links between them are also highlighted. We also discuss Nested-PARAFAC and Nested-Tucker decompositions. Then, some key applications of tensor decompositions to wireless communications and signal processing are also presented.
+
 ### Christophe Cerisara
-*Study of a few properties of LLM pruning*
+*Low-rank compression of LLMs*
+
+**Abstract:** After a brief motivation and reminder of important LLM fundamental properties, such
+as transformer scaling laws, I will focus on a family of methods to achieve
+low-rank compression of LLMs. I will discuss a few limitations of
+previous methods, and propose an approach to combine low-rank compression
+with distillation to reduce the cost of compressing a model, the amount
+of calibration data required and the convergence time. The proposed
+method generalizes to non-linear layers and we demonstrate its efficiency
+on state-of-the-art transformer LLMs, but also on Mamba and speech-text Whisper models.
+
 
 ### Jérémy Cohen
 *Implicit Regularization in Regularized (Nonnegative) Low-Rank Approximations* 
