@@ -11,7 +11,7 @@ This workshop will explore low-rank matrix and tensor decompositions/approximati
 We will start at 13h-14h on 26 November and should finish on the 27th in the afternoon. Stay tuned for the detailed schedule of talks!
 
 ## Registration
-Registration is free but mandatory (the capacity is limited), by noon of 22 November at the latest. [Click here to register!](https://forms.gle/cp7v3FCfH1QnJh8F6). 
+Registration is free but mandatory (the capacity is limited), by 21 November at the latest. [Click here to register!](https://forms.gle/cp7v3FCfH1QnJh8F6). 
 
 ## Invited speakers
 - [André de Almeida](https://professors.gtel.ufc.br/andre/) (Federal University of Ceara, Fortaleza)
