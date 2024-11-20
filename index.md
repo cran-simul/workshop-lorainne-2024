@@ -95,7 +95,19 @@ Advances in Neural Information Processing Systems (NeurIPS), 2022
 ## Tuesday 27 November (morning)
 
 ### Bernard Mourrain
-*Low rank approximation of moment matrices and tensors*
+*Low rank approximation of moment sequences and tensors*
+
+**Abstract:** In several application domains such as data analysis, or signal
+processing, understanding the underlying structure or distribution of
+the data is a challenging problem. Often, statistics of order 2 are
+not sufficient to reveal this hidden structure, while statistics of
+order higher than 3 allow doing it.
+
+We will describe methods to recover the underlying structure from moment sequences up to some given order and how to find approximate low rank decompositions of moment sequences. We will briefly present the algebra behind the approach,
+based on Hankel analysis and Joint Diagonalisation.
+The correlation with tensor decomposition problems will be detailed.
+Some numerical experimentations will illustrate these low rank approximation methods.
+
 
 ### Jérémy Cohen
 *Implicit Regularization in Regularized (Nonnegative) Low-Rank Approximations* 
@@ -108,6 +120,10 @@ Regularized nonnegative low-rank approximations such as sparse Nonnegative Matri
 
 ### Yassine Zniyed
 *Network compression using tensor decompositions and pruning*
+
+**Abstract:** In this talk, I will present NORTON, a hybrid network compression method combining tensor decompositions and pruning. NORTON introduces the concept of filter decomposition, enabling a detailed breakdown of the network while preserving the multidimensional properties of weights. Additionally, it incorporates a novel structured pruning approach to integrate the decomposed model. The efficacy of this method is demonstrated through its application to state-of-the-art convolutional neural networks.
+
+A small part of the talk will discuss an ongoing work called CONCATENATION (Coupled Tensor Decomposition for Compact Network Representation). This approach decomposes the most similar filters in a coupled manner, providing a more compact representation of deep neural networks.
 
 ## Tuesday 27 November (afternoon)
 
@@ -154,8 +170,14 @@ With the increasingly complex models used in machine learning and the large amou
 
 
 
-## Poster session 
-The full list of posters will be announced shortly.
+## Poster session  (Tue 26 November, 17:30-19:00)
+
+### Hassan Ballout (Université de Strasbourg)
+*Nonlinear compressive reduced basis method*
+
+**Abstract:** Reduced basis methods for approximating the solutions of parameter-dependent partial differential equations (PDEs) are based on learning the structure of the set of solutions - seen as a manifold S in some functional space - when the parameters vary. This involves investigating the manifold and, in particular, understanding whether it is close to a low-dimensional affine space. This leads to the notion of Kolmogorov N-width that consists of evaluating to which extent the best choice of a vectorial space of dimension N approximates S well enough. If a good approximation of elements in S can be done with some well-chosen vectorial space of dimension N - provided N is not too large - then a reduced" basis can be proposed that leads to a Galerkin type method for the approximation of any element in S. In many cases, however, the Kolmogorov N-width is not so small, even if the parameter set lies in a space of a small dimension, yielding a manifold with a small dimension. In terms of complexity reduction, this gap between the small dimension of the manifold and the large Kolmogorov N-width can be explained by the fact that the Kolmogorov N-width is linear while, in contrast, the dependency in the parameter is, most often, non-linear. There have been many contributions aiming at reconciling these two statements, either based on deterministic or Al approaches. We investigate here further a new paradigm that, in some sense, merges these two aspects: the nonlinear compressive reduced basis approximation. We focus on a simple multiparameter problem and illustrate rigorously that the complexity associated with the approximation of the solution to the parameter-dependent PDE is directly related to the number of parameters rather than the Kolmogorov N-width.
+
+
 
 ### Saulo Barreto (CRAN, Nancy)
 Physically-constrained block-term tensor decomposition for polarimetric image recovery*
