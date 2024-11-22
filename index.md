@@ -11,7 +11,7 @@ This workshop will explore low-rank matrix and tensor decompositions/approximati
 We will start at 13h-14h on 26 November and should finish on the 27th in the afternoon. Stay tuned for the detailed schedule of talks!
 
 ## Registration
-Registration is free but mandatory (the capacity is limited), by 21 November at the latest. [Click here to register!](https://forms.gle/cp7v3FCfH1QnJh8F6). 
+Registration is free but mandatory (the capacity is limited), by 21 November at the latest.
 
 ## Invited speakers
 - [André de Almeida](https://professors.gtel.ufc.br/andre/) (Federal University of Ceara, Fortaleza)
@@ -66,7 +66,11 @@ Tensor decompositions are powerful tools in various application fields, includin
 ### Mariya Ishteva
 *Decoupling multivariate functions using tensors*
 
-**Abstract:** TBD
+**Abstract:** Reducing the complexity and increasing the interpretability of nonlinear multivariate vector functions remain important but challenging problems. Inspired by the singular value decomposition, we propose a decomposition of nonlinear functions [1], in which univariate nonlinear mappings replace the scaling performed by the singular values. The computation of the decomposition and its variations is based on tensor techniques. Finally, we also mention applications in nonlinear system identification and recent extensions in neural network compression.
+
+Joint work with Philippe Dreesen, Konstantin Usevich, Joppe De Jonghe, Johan Schoukens
+
+[1] P. Dreesen, M. Ishteva, and J. Schoukens. Decoupling multivariate polynomials using first-order information and tensor decompositions. SIMAX, 36:864--879, 2015.
 
 ### Francesco Tudisco
 *Exploiting Low-Rank Geometry in Deep Learning*
@@ -236,6 +240,12 @@ Our aim is to develop subgroup-fairness-aware regularization approaches to addre
 **Abstract:** The ParaTuck-2 decomposition (PT2D) of third-order tensor is a two-layer generalization of the well-known canonical polyadic decomposition (CPD). While being more flexible than the CPD, the PT2D also possesses similar uniqueness properties.
 In this paper, we show than under the best known uniqueness conditions, the exact PT2D can be computed by an algebraic algorithm (i.e., can the PT2D problems can be reduced to computing nullspaces and eigenvalues of certain matrices).
 We do so by lifting the slices of the tensor to higher-dimensional space, which also allows for refining the existing uniqueness conditions. The algorithms are developed for general PT2D and its symmetric version (DEDICOM), which leads to an algebraic algorithm for another generalization of the CPD, the PARAFAC2 decomposition. Our methods are also applicable in the approximation scenario, as shown by the numerical experiments.
+
+
+### Ivan Yakushev (ENSAD, Nancy
+*LoRA for Visual Art: Fine-Tuning Open Diffusion Models for Creative Applications*
+
+**Abstract:**  TBD
 
 
 ## Contact Us
