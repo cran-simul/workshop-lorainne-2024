@@ -14,18 +14,18 @@ We will start at 13h-14h on 26 November and should finish on the 27th in the aft
 Registration is free but mandatory (the capacity is limited), by 21 November at the latest.
 
 ## Invited speakers
-- [André de Almeida](https://professors.gtel.ufc.br/andre/) (Federal University of Ceara, Fortaleza)
-- [Christophe Cerisara](https://members.loria.fr/CCerisara/) (CNRS-LORIA, Nancy)
-- [Jérémy Cohen](https://jeremy-e-cohen.jimdofree.com) (CNRS-CREATIS, Lyon)
+- [André de Almeida](https://professors.gtel.ufc.br/andre/) (Federal University of Ceará, Fortaleza)
+- [Christophe Cerisara](https://members.loria.fr/CCerisara/) (LORIA, CNRS, Nancy)
+- [Jérémy Cohen](https://jeremy-e-cohen.jimdofree.com) (CREATIS, CNRS, Lyon)
 - [Julia Gusak](https://juliagusak.github.io) (INRIA Bordeaux)
-- [Mariya Ishteva](https://www.kuleuven.be/wieiswie/en/person/00050783) (Katholieke Universiteit Leuven)
+- [Mariya Ishteva](https://www.kuleuven.be/wieiswie/en/person/00050783) (KU Leuven)
 - [Bernard Mourrain](https://www-sop.inria.fr/members/Bernard.Mourrain/) (INRIA Sophia-Antipolis)
 - [Carolin Penke](https://www.fz-juelich.de/profile/penke_c) (Jülich Supercomputing Centre)
 - [Mark Sandler](https://www.seresearch.qmul.ac.uk/cmai/people/msandler/) (Queen Mary University of London)
 - [Romain Serizel](https://members.loria.fr/RSerizel/) (LORIA, Nancy)
 - [Francesco Tudisco](https://ftudisco.gitlab.io/) (University of Edinburgh)
 - [Yang Qi](https://sites.google.com/view/yangqi) (INRIA Saclay – Île-de-France)
-- [Yassine Zniyed](https://yzniyed.blogspot.com/p/about-me.html) (University of Toulon)
+- [Yassine Zniyed](https://yzniyed.blogspot.com/p/about-me.html) (Université de Toulon)
 
 
 ### Schedule:
@@ -46,7 +46,7 @@ Registration is free but mandatory (the capacity is limited), by 21 November at 
 |                | 09:00-10:00      | Bernard Mourrain (keynote) <br>   *Low rank approximation of moment matrices and tensors*                    |
 |                | 10:00-10:30      | Jérémy Cohen  <br>  *Implicit Regularization in Regularized (Nonnegative) Low-Rank Approximations*     |
 |                | 10:30-11:00      | Coffee break                            |
-|                | 11:00-12:00      | Julia Gusak  (keynote) <br> *TBD*                           |
+|                | 11:00-12:00      | Julia Gusak  (keynote) <br> *Tensor Methods in Deep Learning and their Efficiency*                           |
 |                | 12:00-12:30      | Yassine Zniyed <br> *Network compression using tensor decompositions and pruning*  |
 |                | 12:30-14:00      | Lunch break                             |
 |                | 14:00-14:45      | Christophe Cerisara (keynote) <br> *Low-rank compression of LLMs*    |
@@ -120,7 +120,9 @@ Some numerical experimentations will illustrate these low rank approximation met
 Regularized nonnegative low-rank approximations such as sparse Nonnegative Matrix Factorization or Sparse Nonnegative Tucker Decomposition are an important branch of dimensionality reduction models with enhanced interpretability. However, from a practical perspective, the choice of regularizers and regularization coefficients is often challenging because of the multifactor nature of these models and the lack of theory to back these choices. The work presented aims at improving upon these issues. By studying a more general model called the Homogeneous Regularized Scale-Invariant, we prove that the scale- invariance inherent to low-rank approximation models causes an implicit regularization with unexpected effects. This observation enables to better understand the effect of regularization functions in low-rank approximation models, to guide the choice of the regularization hyperparameters, and to design balancing strategies to enhance the convergence speed of dedicated optimization algorithms. We showcase our contributions on sparse Nonnegative Matrix Factorization, ridge-regularized Canonical Polyadic decomposition and sparse Nonnegative Tucker Decomposition.
 
 ### Julia Gusak
-*TBD*
+*Tensor Methods in Deep Learning and their Efficiency*
+
+**Abstract:** TBD
 
 ### Yassine Zniyed
 *Network compression using tensor decompositions and pruning*
