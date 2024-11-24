@@ -37,7 +37,7 @@ Registration is free but mandatory (the capacity is limited), by 21 November at 
 |                | 13:15-13:45      | Registration                            |
 |                | 13:45-14:00      | Opening remarks                         |
 |                | 14:00-15:00      | [André de Almeida](#andre-de-almeida) (keynote) <br>  *Overview of tensor decompositions and some applications to wireless communications*                    |
-|                | 15:00-15:30      | Mariya Ishteva <br>  *Decoupling multivariate functions using tensors*   |
+|                | 15:00-15:30      | [Mariya Ishteva](#mariya-ishteva) <br>  *Decoupling multivariate functions using tensors*   |
 |                | 15:30-16:00      | Coffee break                            |
 |                | 16:00-17:00      | Francesco Tudisco (keynote) <br> *Exploiting Low-Rank Geometry in Deep Learning*  |
 |                | 17:00-17:30      | Yang Qi <br> *The statistical limits of multi-spiked random tensor models* |
