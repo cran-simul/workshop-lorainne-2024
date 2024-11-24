@@ -12,27 +12,27 @@ This workshop will explore low-rank matrix and tensor decompositions/approximati
 
 | **Date/Time**         | **Session**                             |
 |-----------------------|-----------------------------------------|
-| **Tue 26 Nov** | **(Day 1)**                             |
+| **Tue 26 Nov** | <a name="tue-pm"></a>**(Day 1)**                             |
 | 13:15-13:45      | Registration                            |
 | 13:45-14:00      | Opening remarks                         |
-| 14:00-15:00      | André de Almeida (keynote) <br>  *Overview of tensor decompositions and some applications to wireless communications*      [(abstract)](#andré-de-almeida)             |
+| 14:00-15:00      | André de Almeida  <br>  *Overview of tensor decompositions and some applications to wireless communications*      [(abstract)](#andré-de-almeida)             |
 | 15:00-15:30      | Mariya Ishteva <br>  *Decoupling multivariate functions using tensors* [(abstract)](#mariya-ishteva)   |
 | 15:30-16:00      | Coffee break                            |
-| 16:00-17:00      | [Francesco Tudisco (keynote) <br> *Exploiting Low-Rank Geometry in Deep Learning* [(abstract)](#francesco-tudisco) |
-| 17:00-17:30      | Yang Qi <br> *The statistical limits of multi-spiked random tensor models* |
+| 16:00-17:00      | Francesco Tudisco  <br> *Exploiting Low-Rank Geometry in Deep Learning* [(abstract)](#francesco-tudisco) |
+| 17:00-17:30      | Yang Qi <br> *The statistical limits of multi-spiked random tensor models* [(abstract)](#yang-qi) |
 | 17:30-19:00      | Poster session with reception              |
-| **Wed 27 Nov** | **(Day 2)**                             |
-| 09:00-10:00      | Bernard Mourrain (keynote) <br>   *Low rank approximation of moment matrices and tensors*                    |
-| 10:00-10:30      | Jérémy Cohen  <br>  *Implicit Regularization in Regularized (Nonnegative) Low-Rank Approximations*     |
+| **Wed 27 Nov** | <a name="wed-am"></a>**(Day 2)**                             |
+| 09:00-10:00      | Bernard Mourrain  <br>   *Low rank approximation of moment matrices and tensors*   [(abstract)](#bernard-mourrain)                 |
+| 10:00-10:30      | Jérémy Cohen  <br>  *Implicit Regularization in Regularized (Nonnegative) Low-Rank Approximations*   [(abstract)](#jérémy-cohen)  |
 | 10:30-11:00      | Coffee break                            |
-| 11:00-12:00      | Julia Gusak  (keynote) <br> *Tensor Methods in Deep Learning and their Efficiency*                           |
-| 12:00-12:30      | Yassine Zniyed <br> *Network compression using tensor decompositions and pruning*  |
-| 12:30-14:00      | Lunch break                             |
-| 14:00-14:45      | Christophe Cerisara (keynote) <br> *Low-rank compression of LLMs*    |
-| 14:45-15:15      | Carolin Penke <br>  *Efficient Computation of Low-Rank Representations to Reduce Memory Requirements in LLM Training*   |
+| 11:00-12:00      | Julia Gusak  <br> *Tensor Methods in Deep Learning and their Efficiency*        [(abstract)](#julia-gusak)                   |
+| 12:00-12:30      | Yassine Zniyed <br> *Network compression using tensor decompositions and pruning*    [(abstract)](#yassine-zniyed) |
+| 12:30-14:00      | <a name="wed-pm"></a> Lunch break                             |
+| 14:00-14:45      | Christophe Cerisara  <br> *Low-rank compression of LLMs*  [(abstract)](#christophe-cerisara)  |
+| 14:45-15:15      | Carolin Penke <br>  *Efficient Computation of Low-Rank Representations to Reduce Memory Requirements in LLM Training*  [(abstract)](#carolin-penke)  |
 | 15:15-15:45      | Coffee break                            |
-| 15:45-16:15      | Mark Sandler <br>  *Artificial Neuroscience: metrology and engineering for Deep Learning using Linear Algebra*  |
-| 16:15-16:45      | Romain Serizel <br>  *Monitoring Environmental Impact of AI Systems: why and how?* |
+| 15:45-16:15      | Mark Sandler <br>  *Artificial Neuroscience: metrology and engineering for Deep Learning using Linear Algebra* [(abstract)](#mark-sandler) |
+| 16:15-16:45      | Romain Serizel <br>  *Monitoring Environmental Impact of AI Systems: why and how?* [(abstract)](#romain-serizel) |
 | 16:45-17:00      | Farewell                                |
 
 
@@ -53,6 +53,8 @@ Registration is free but mandatory (the capacity is limited), by 21 November at 
 - [Yang Qi](https://sites.google.com/view/yangqi) (INRIA Saclay – Île-de-France)
 - [Yassine Zniyed](https://yzniyed.blogspot.com/p/about-me.html) (Université de Toulon)
 
+## Poster session
+
 
 
 ## Tuesday 26 November (afternoon)
@@ -62,6 +64,8 @@ Registration is free but mandatory (the capacity is limited), by 21 November at 
 
 Tensor decompositions are powerful tools in various application fields, including wireless communications, blind source separation, biomedical signal processing, exploratory data analysis, and machine learning. In this talk, after a brief overview of popular tensor decompositions, we discuss constrained tensor decompositions, which incorporate constraint matrices to model linear dependencies among columns of the factor matrices. This includes the so-called PARALIND/CONFAC and PARATUCK decompositions. Generalized versions of these tensor decompositions and links between them are also highlighted. We also discuss Nested-PARAFAC and Nested-Tucker decompositions. Then, some key applications of tensor decompositions to wireless communications and signal processing are also presented.
 
+[(back to schedule)](#tue-pm)
+
 ### Mariya Ishteva
 *Decoupling multivariate functions using tensors*
 
@@ -70,6 +74,8 @@ Tensor decompositions are powerful tools in various application fields, includin
 Joint work with Philippe Dreesen, Konstantin Usevich, Joppe De Jonghe, Johan Schoukens
 
 [1] P. Dreesen, M. Ishteva, and J. Schoukens. Decoupling multivariate polynomials using first-order information and tensor decompositions. SIMAX, 36:864--879, 2015.
+
+[(back to schedule)](#tue-pm)
 
 ### Francesco Tudisco
 *Exploiting Low-Rank Geometry in Deep Learning*
@@ -88,12 +94,15 @@ Advances in Neural Information Processing Systems (NeurIPS), 2023
 Low-rank lottery tickets: finding efficient low-rank neural networks via matrix differential equations
 Steffen Schotthöfer, Emanuele Zangrando, Jonas Kusch, Gianluca Ceruti, Francesco Tudisco
 Advances in Neural Information Processing Systems (NeurIPS), 2022
+
+[(back to schedule)](#tue-pm)
  
 ### Yang Qi
 *The statistical limits of multi-spiked random tensor models*
 
 **Abstract:** Numerous problems in signal processing, machine learning, and data analysis are based on the low-rank tensor model, a.k.a. the multi-spiked tensor model, where we would like to recover the hidden low-rank structure from a noisy observed tensor data. Though several algorithms have been proposed for low-rank approximations, little is known about the corresponding performance analyses and statistical limits. In this talk, we will focus on the statistical performance of the local methods designed for low-rank approximations. More precisely, thanks to the nature of local optimization methods used to find the maximum likelihood estimator of the multi-spiked Gaussian tensor model, we propose to study the phase transition phenomenon for finding critical points of the corresponding optimization problem, i.e., those points defined by the KKT conditions. In particular, we obtain a threshold above which the detection of critical points is possible. Moreover, we characterize the limiting alignments between the maximum-likelihood estimators and the ground truth signals. With the help of these results, we achieve a new estimator by modifying the classical maximum likelihood estimator.
 
+[(back to schedule)](#tue-pm)
 
 ## Tuesday 27 November (morning)
 
@@ -111,7 +120,7 @@ based on Hankel analysis and Joint Diagonalisation.
 The correlation with tensor decomposition problems will be detailed.
 Some numerical experimentations will illustrate these low rank approximation methods.
 
-[(back to schedule)](#schedule)
+[(back to schedule)](#wed-am)
 
 ### Jérémy Cohen
 *Implicit Regularization in Regularized (Nonnegative) Low-Rank Approximations* 
@@ -145,7 +154,7 @@ of calibration data required and the convergence time. The proposed
 method generalizes to non-linear layers and we demonstrate its efficiency
 on state-of-the-art transformer LLMs, but also on Mamba and speech-text Whisper models.
 
-
+[(back to schedule)](#wed-pm)
 
 
 
@@ -156,7 +165,7 @@ on state-of-the-art transformer LLMs, but also on Mamba and speech-text Whisper 
 **Abstract:**
 The OpenGPT-X project represents one of Europe's pioneering publicly funded efforts in the domain of large language models (LLMs), covering the entire lifecycle from pre-training foundational models to fine-tuning and practical application development.  To maximize the efficiency of training on High Performance Computing (HPC) resources, strategies aimed at reducing computational and memory demands are being explored. A promising avenue exploits the low-rank structure of gradients, as done in the LoRA or GaLore frameworks, the latter of which relies on the computation of dominant low-rank subspaces during training. The randomized range finder algorithm provides a more efficient alternative to computing a full singular value decomposition (SVD). We introduce a novel variant of the range finder, based on the blocked Householder QR decomposition, optimized for modern GPU accelerators.
 
-
+[(back to schedule)](#wed-pm)
 
 ### Mark Sandler
 *Artificial Neuroscience: metrology and engineering for Deep Learning using Linear Algebra*
@@ -168,12 +177,16 @@ The motivation for this shift in viewpoint comes from an observation that the me
  
 The presentation will explore further the parallels between AI and neuroscience and will use existing literature to show how several aspects of this viewpoint on the research landscape are already being explored in several labs. It will include a glimpse of our own latest results (submitted to ICLR 2025) that explores how training in low-rank domains can improve learning and reduce the demand for data.
 
+[(back to schedule)](#wed-pm)
+
+
 ### Romain Serizel
 *Monitoring Environmental Impact of AI Systems: why and how?*
 
 **Abstract:**
 With the increasingly complex models used in machine learning and the large amount of data needed to train these models, machine learning based solutions can have a large environmental impact. Even if a few hundred experiments are sometimes needed to train a working model, the cost of the training phase represents only 10% to 20% of the total CO2 emissions of the related machine learning usage (the rest lying in the inference phase). Yet, as machine learning researchers the largest part of our energy consumption lays in the training phase. Comparing the energy consumption of system trained on different site can be a complex task and the relation between the system performance and its energy footprint can be uneasy to interpret. In this presentation we will study the energy consumption measurement under various configurations to assess the aspects that can potentially affect the measure of the energy consumption.
 
+[(back to schedule)](#wed-pm)
 
 
 ## Poster session  (Tue 26 November, 17:30-19:00)
