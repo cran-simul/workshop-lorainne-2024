@@ -1,11 +1,8 @@
-# LoRAINNe'24: workshop on LOw-Rank Approximations and their Interactions with Neural NEtworks
+## LoRAINNe'24: workshop on LOw-Rank Approximations and their Interactions with Neural NEtworks
 
 **Location**: IDMC (Institut des Sciences du Digital Management & Cognition), 13 rue Michel Ney, Nancy, France.  [How to get there](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=48.68979%2C6.17514%3B48.69743%2C6.17170#map=16/48.69352/6.17392)
 
-**Date**: 26 and 27 November, 2024.
-
-## About the Workshop
-This workshop will explore low-rank matrix and tensor decompositions/approximations and their interactions with neural networks and machine learning at large. The workshop will cover theoretical foundations as well as practical applications, with the main goal to connect researchers working in these fields. This workshop is also a closing event for the ANR LeaFleT project (project ANR-19-CE23-0021).
+**Dates**: 26 and 27 November, 2024.
 
 ### Schedule:
 
@@ -35,6 +32,8 @@ This workshop will explore low-rank matrix and tensor decompositions/approximati
 | 16:15-16:45      | Romain Serizel <br>  *Monitoring Environmental Impact of AI Systems: why and how?* [(abstract)](#romain-serizel) |
 | 16:45-17:00      | Farewell                                |
 
+## About the Workshop
+This workshop will explore low-rank matrix and tensor decompositions/approximations and their interactions with neural networks and machine learning at large. The workshop will cover theoretical foundations as well as practical applications, with the main goal to connect researchers working in these fields. This workshop is also a closing event for the ANR LeaFleT project (project ANR-19-CE23-0021).
 
 ## Registration
 Registration is free but mandatory (the capacity is limited), by 21 November at the latest.[Click here to register!](https://forms.gle/cp7v3FCfH1QnJh8F6)
