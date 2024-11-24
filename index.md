@@ -7,27 +7,6 @@
 ## About the Workshop
 This workshop will explore low-rank matrix and tensor decompositions/approximations and their interactions with neural networks and machine learning at large. The workshop will cover theoretical foundations as well as practical applications, with the main goal to connect researchers working in these fields. This workshop is also a closing event for the ANR LeaFleT project (project ANR-19-CE23-0021).
 
-## Schedule
-We will start at 13h-14h on 26 November and should finish on the 27th in the afternoon. Stay tuned for the detailed schedule of talks!
-
-## Registration
-Registration is free but mandatory (the capacity is limited), by 21 November at the latest.[Click here to register!](https://forms.gle/cp7v3FCfH1QnJh8F6)
-
-## Invited speakers
-- [André de Almeida](https://professors.gtel.ufc.br/andre/) (Federal University of Ceará, Fortaleza)
-- [Christophe Cerisara](https://members.loria.fr/CCerisara/) (LORIA, CNRS, Nancy)
-- [Jérémy Cohen](https://jeremy-e-cohen.jimdofree.com) (CREATIS, CNRS, Lyon)
-- [Julia Gusak](https://juliagusak.github.io) (INRIA Bordeaux)
-- [Mariya Ishteva](https://www.kuleuven.be/wieiswie/en/person/00050783) (KU Leuven)
-- [Bernard Mourrain](https://www-sop.inria.fr/members/Bernard.Mourrain/) (INRIA Sophia-Antipolis)
-- [Carolin Penke](https://www.fz-juelich.de/profile/penke_c) (Jülich Supercomputing Centre, Germany)
-- [Mark Sandler](https://www.seresearch.qmul.ac.uk/cmai/people/msandler/) (Queen Mary University of London)
-- [Romain Serizel](https://members.loria.fr/RSerizel/) (LORIA, Nancy)
-- [Francesco Tudisco](https://ftudisco.gitlab.io/) (University of Edinburgh)
-- [Yang Qi](https://sites.google.com/view/yangqi) (INRIA Saclay – Île-de-France)
-- [Yassine Zniyed](https://yzniyed.blogspot.com/p/about-me.html) (Université de Toulon)
-
-
 ### Schedule:
 
 
@@ -55,6 +34,26 @@ Registration is free but mandatory (the capacity is limited), by 21 November at 
 | 15:45-16:15      | Mark Sandler <br>  *Artificial Neuroscience: metrology and engineering for Deep Learning using Linear Algebra*  |
 | 16:15-16:45      | Romain Serizel <br>  *Monitoring Environmental Impact of AI Systems: why and how?* |
 | 16:45-17:00      | Farewell                                |
+
+
+## Registration
+Registration is free but mandatory (the capacity is limited), by 21 November at the latest.[Click here to register!](https://forms.gle/cp7v3FCfH1QnJh8F6)
+
+## Invited speakers
+- [André de Almeida](https://professors.gtel.ufc.br/andre/) (Federal University of Ceará, Fortaleza)
+- [Christophe Cerisara](https://members.loria.fr/CCerisara/) (LORIA, CNRS, Nancy)
+- [Jérémy Cohen](https://jeremy-e-cohen.jimdofree.com) (CREATIS, CNRS, Lyon)
+- [Julia Gusak](https://juliagusak.github.io) (INRIA Bordeaux)
+- [Mariya Ishteva](https://www.kuleuven.be/wieiswie/en/person/00050783) (KU Leuven)
+- [Bernard Mourrain](https://www-sop.inria.fr/members/Bernard.Mourrain/) (INRIA Sophia-Antipolis)
+- [Carolin Penke](https://www.fz-juelich.de/profile/penke_c) (Jülich Supercomputing Centre, Germany)
+- [Mark Sandler](https://www.seresearch.qmul.ac.uk/cmai/people/msandler/) (Queen Mary University of London)
+- [Romain Serizel](https://members.loria.fr/RSerizel/) (LORIA, Nancy)
+- [Francesco Tudisco](https://ftudisco.gitlab.io/) (University of Edinburgh)
+- [Yang Qi](https://sites.google.com/view/yangqi) (INRIA Saclay – Île-de-France)
+- [Yassine Zniyed](https://yzniyed.blogspot.com/p/about-me.html) (Université de Toulon)
+
+
 
 ## Tuesday 26 November (afternoon)
 
@@ -112,6 +111,7 @@ based on Hankel analysis and Joint Diagonalisation.
 The correlation with tensor decomposition problems will be detailed.
 Some numerical experimentations will illustrate these low rank approximation methods.
 
+[(back to schedule)](#schedule)
 
 ### Jérémy Cohen
 *Implicit Regularization in Regularized (Nonnegative) Low-Rank Approximations* 
