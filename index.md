@@ -20,7 +20,7 @@ Registration is free but mandatory (the capacity is limited), by 21 November at 
 - [Julia Gusak](https://juliagusak.github.io) (INRIA Bordeaux)
 - [Mariya Ishteva](https://www.kuleuven.be/wieiswie/en/person/00050783) (KU Leuven)
 - [Bernard Mourrain](https://www-sop.inria.fr/members/Bernard.Mourrain/) (INRIA Sophia-Antipolis)
-- [Carolin Penke](https://www.fz-juelich.de/profile/penke_c) (Jülich Supercomputing Centre)
+- [Carolin Penke](https://www.fz-juelich.de/profile/penke_c) (Jülich Supercomputing Centre, Germany)
 - [Mark Sandler](https://www.seresearch.qmul.ac.uk/cmai/people/msandler/) (Queen Mary University of London)
 - [Romain Serizel](https://members.loria.fr/RSerizel/) (LORIA, Nancy)
 - [Francesco Tudisco](https://ftudisco.gitlab.io/) (University of Edinburgh)
@@ -31,30 +31,30 @@ Registration is free but mandatory (the capacity is limited), by 21 November at 
 ### Schedule:
 
 
-| **Date**       | **Time**         | **Session**                             |
-|----------------|------------------|-----------------------------------------|
-| **Tue 26 Nov** |                  | **(Day 1)**                             |
-|                | 13:15-13:45      | Registration                            |
-|                | 13:45-14:00      | Opening remarks                         |
-|                | 14:00-15:00      | [André de Almeida](#andré-de-almeida) (keynote) <br>  *Overview of tensor decompositions and some applications to wireless communications*                    |
-|                | 15:00-15:30      | [Mariya Ishteva](#mariya-ishteva) <br>  *Decoupling multivariate functions using tensors*   |
-|                | 15:30-16:00      | Coffee break                            |
-|                | 16:00-17:00      | Francesco Tudisco (keynote) <br> *Exploiting Low-Rank Geometry in Deep Learning*  |
-|                | 17:00-17:30      | Yang Qi <br> *The statistical limits of multi-spiked random tensor models* |
-|                | 17:30-19:00      | Cocktail + poster session               |
-| **Wed 27 Nov** |                  | **(Day 2)**                             |
-|                | 09:00-10:00      | Bernard Mourrain (keynote) <br>   *Low rank approximation of moment matrices and tensors*                    |
-|                | 10:00-10:30      | Jérémy Cohen  <br>  *Implicit Regularization in Regularized (Nonnegative) Low-Rank Approximations*     |
-|                | 10:30-11:00      | Coffee break                            |
-|                | 11:00-12:00      | Julia Gusak  (keynote) <br> *Tensor Methods in Deep Learning and their Efficiency*                           |
-|                | 12:00-12:30      | Yassine Zniyed <br> *Network compression using tensor decompositions and pruning*  |
-|                | 12:30-14:00      | Lunch break                             |
-|                | 14:00-14:45      | Christophe Cerisara (keynote) <br> *Low-rank compression of LLMs*    |
-|                | 14:45-15:15      | Carolin Penke <br>  *Efficient Computation of Low-Rank Representations to Reduce Memory Requirements in LLM Training*   |
-|                | 15:15-15:45      | Coffee break                            |
-|                | 15:45-16:15      | Mark Sandler <br>  *Artificial Neuroscience: metrology and engineering for Deep Learning using Linear Algebra*  |
-|                | 16:15-16:45      | Romain Serizel <br>  *Monitoring Environmental Impact of AI Systems: why and how?* |
-|                | 16:45-17:00      | Farewell                                |
+| **Date/Time**         | **Session**                             |
+|-----------------------|-----------------------------------------|
+| **Tue 26 Nov** | **(Day 1)**                             |
+| 13:15-13:45      | Registration                            |
+| 13:45-14:00      | Opening remarks                         |
+| 14:00-15:00      | André de Almeida (keynote) <br>  *Overview of tensor decompositions and some applications to wireless communications*      [(abstract)](#andré-de-almeida)             |
+| 15:00-15:30      | Mariya Ishteva <br>  *Decoupling multivariate functions using tensors* [(abstract)](#mariya-ishteva)   |
+| 15:30-16:00      | Coffee break                            |
+| 16:00-17:00      | [Francesco Tudisco (keynote) <br> *Exploiting Low-Rank Geometry in Deep Learning* [(abstract)](#francesco-tudisco) |
+| 17:00-17:30      | Yang Qi <br> *The statistical limits of multi-spiked random tensor models* |
+| 17:30-19:00      | Poster session with reception              |
+| **Wed 27 Nov** | **(Day 2)**                             |
+| 09:00-10:00      | Bernard Mourrain (keynote) <br>   *Low rank approximation of moment matrices and tensors*                    |
+| 10:00-10:30      | Jérémy Cohen  <br>  *Implicit Regularization in Regularized (Nonnegative) Low-Rank Approximations*     |
+| 10:30-11:00      | Coffee break                            |
+| 11:00-12:00      | Julia Gusak  (keynote) <br> *Tensor Methods in Deep Learning and their Efficiency*                           |
+| 12:00-12:30      | Yassine Zniyed <br> *Network compression using tensor decompositions and pruning*  |
+| 12:30-14:00      | Lunch break                             |
+| 14:00-14:45      | Christophe Cerisara (keynote) <br> *Low-rank compression of LLMs*    |
+| 14:45-15:15      | Carolin Penke <br>  *Efficient Computation of Low-Rank Representations to Reduce Memory Requirements in LLM Training*   |
+| 15:15-15:45      | Coffee break                            |
+| 15:45-16:15      | Mark Sandler <br>  *Artificial Neuroscience: metrology and engineering for Deep Learning using Linear Algebra*  |
+| 16:15-16:45      | Romain Serizel <br>  *Monitoring Environmental Impact of AI Systems: why and how?* |
+| 16:45-17:00      | Farewell                                |
 
 ## Tuesday 26 November (afternoon)
 
