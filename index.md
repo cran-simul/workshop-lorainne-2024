@@ -1,6 +1,6 @@
 # LoRAINNe'24: workshop on LOw-Rank Approximations and their Interactions with Neural NEtworks
 
-**Location**: IDMC (Institut des Sciences du Digital), Nancy, France.  [How to get there](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=48.68979%2C6.17514%3B48.69743%2C6.17170#map=16/48.69352/6.17392)
+**Location**: IDMC (Institut des Sciences du Digital Management & Cognition), 13 rue Michel Ney, Nancy, France.  [How to get there](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=48.68979%2C6.17514%3B48.69743%2C6.17170#map=16/48.69352/6.17392)
 
 **Date**: 26 and 27 November, 2024.
 
@@ -104,7 +104,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2022
 
 [(back to schedule)](#tue-pm)
 
-## Tuesday 27 November (morning)
+## Wednesday 27 November (morning)
 
 ### Bernard Mourrain
 *Low rank approximation of moment sequences and tensors*
@@ -128,10 +128,14 @@ Some numerical experimentations will illustrate these low rank approximation met
 **Abstract:**
 Regularized nonnegative low-rank approximations such as sparse Nonnegative Matrix Factorization or Sparse Nonnegative Tucker Decomposition are an important branch of dimensionality reduction models with enhanced interpretability. However, from a practical perspective, the choice of regularizers and regularization coefficients is often challenging because of the multifactor nature of these models and the lack of theory to back these choices. The work presented aims at improving upon these issues. By studying a more general model called the Homogeneous Regularized Scale-Invariant, we prove that the scale- invariance inherent to low-rank approximation models causes an implicit regularization with unexpected effects. This observation enables to better understand the effect of regularization functions in low-rank approximation models, to guide the choice of the regularization hyperparameters, and to design balancing strategies to enhance the convergence speed of dedicated optimization algorithms. We showcase our contributions on sparse Nonnegative Matrix Factorization, ridge-regularized Canonical Polyadic decomposition and sparse Nonnegative Tucker Decomposition.
 
+[(back to schedule)](#wed-am)
+
 ### Julia Gusak
 *Tensor Methods in Deep Learning and their Efficiency*
 
 **Abstract:** TBD
+
+[(back to schedule)](#wed-am)
 
 ### Yassine Zniyed
 *Network compression using tensor decompositions and pruning*
@@ -140,7 +144,9 @@ Regularized nonnegative low-rank approximations such as sparse Nonnegative Matri
 
 A small part of the talk will discuss an ongoing work called CONCATENATION (Coupled Tensor Decomposition for Compact Network Representation). This approach decomposes the most similar filters in a coupled manner, providing a more compact representation of deep neural networks.
 
-## Tuesday 27 November (afternoon)
+[(back to schedule)](#wed-am)
+
+## Wednesday 27 November (afternoon)
 
 ### Christophe Cerisara
 *Low-rank compression of LLMs*
@@ -155,8 +161,6 @@ method generalizes to non-linear layers and we demonstrate its efficiency
 on state-of-the-art transformer LLMs, but also on Mamba and speech-text Whisper models.
 
 [(back to schedule)](#wed-pm)
-
-
 
 
 ### Carolin Penke
@@ -199,7 +203,7 @@ With the increasingly complex models used in machine learning and the large amou
 
 
 ### Saulo Barreto (CRAN, Nancy)
-Physically-constrained block-term tensor decomposition for polarimetric image recovery*
+*Physically-constrained block-term tensor decomposition for polarimetric image recovery*
 
 ***Abstract:*** This work introduces a complete approach for recovering polarimetric images from experimental intensity measurements. In many applications, such images collect, at each pixel, a Stokes vector encoding the polarization state of light. By representing a Stokes vector image as a third-order tensor, we propose a new physically constrained block-term tensor decomposition called Stokes-BTD. The proposed model is flexible and comes with broad identifiability guarantees. Moreover, physical constraints ensure meaningful interpretation of low-rank terms as Stokes vectors. In practice, Stokes images must be recovered from indirect, intensity measurements. To this aim, we implement two recovery algorithms for StokesBTD based on constrained alternated optimization and highlight constraints related to Stokes vectors. Numerical experiments on synthetic and real data illustrate the potential of the approach.
 
@@ -216,7 +220,7 @@ We propose two alternating least squares-based algorithms for computing the (con
 properly handling the bias terms in the case of analytic activation functions.
 The proposed methodology is illustrated on both synthetic and neural network examples. 
 
-### Faustine Faccin (CRAN/LORIA/NOVIGA, Nancy)
+### Faustine Faccin (CRAN, Nancy)
 *ECG-based Deep Convolutional Recurrent Network with Attention Mechanism for Sleep Apnea Detection*
 
 **Abstract:** Sleep apnea syndrome (SAS) is a nocturnal respiratory disorder that can be associated with long-term cardiovascular complications. Alternative screening solutions are currently being developed to overcome the limitations of reference in-lab polysomnography. As the respiratory signal can be reconstructed from the electrocardiogram (ECG), the latter is all the more interesting as its recording is easy and non-invasive for the patient. The application of deep learning algorithms using ECGs has proved effective in classifying sleep-related pathological events.
@@ -232,12 +236,12 @@ We validate our method theoretically and experimentally, showcasing significant 
 
 
 
-### Rima Khouja (Huawei, Paris)
+### Rima Khouja (Huawei Paris Research Center)
 *Quasi-Orthogonal Tensor-Based Modulation for Unsourced Massive Random Access*
 
 **Abstract:** We introduce an improved tensor-based modulation for unsourced massive random access that support more users. In this modulation scheme, transmitted symbols are modulated as rank one tensors.  One of the sub-constellation is designed as an optimized quasi-orthogonal constellation. This allows to consider an iterative decoding process over the elements of this sub-constellation, by coupling tensor decomposition and projection on the elements of the sub-constellation.
 
-### Fabio Matti (EPFL, Switzerland)
+### Fabio Matti (EPFL, Lausanne)
 *Randomized trace estimation for parameter-dependent matrices applied to neural network optimization*
 
 **Abstract:** Randomized trace estimators are a family of well established techniques for approximating traces of large matrices which are only accessed through matrix-vector products. These methods have been studied in detail for constant matrices $\boldsymbol{B}$. We analyze three of these methods, the Girard-Hutchinson, Nyström, and Nyström++ estimators, when they are applied to parameter-dependent matrices $\boldsymbol{B}(t)$ which continuously depend on a real parameter $t \in [a, b]$. Instead of applying a separate estimator to each value of the parameter $t_1, t_2, \dots$ in which the trace is approximated, we reuse the same random vectors to construct a single estimator which approximates the trace in all values of the parameter $t$ simultaneously. This makes the methods scale favorably in terms of the number of parameter values at which the estimate is evaluated and allows us to derive error bounds for each of the methods which closely match existing results for constant matrices. Subsequently, we show that these estimators can be used to efficiently approximate the spectral density, i.e. the distribution of the eigenvalues of the Hessian matrix of a neural network, which reflects the geometry of the loss landscape around the iterates from an optimization process.
@@ -249,7 +253,7 @@ We validate our method theoretically and experimentally, showcasing significant 
 These issues are exacerbated when fine-tuning models with QLoRA, which involves quantizing the weights in conjunction with LoRA. We question how to mitigate these effects arising from using QLoRA while preserving the weight size reduction achieved through quantization for efficiency. 
 Our aim is to develop subgroup-fairness-aware regularization approaches to address the problem of biased outcomes.
 
-### Konstantin Usevich (CRAN-CNRS, Nancy)
+### Konstantin Usevich (CRAN, CNRS, Nancy)
 *A lifting approach to ParaTuck-2 tensor decompositions*
 
 **Abstract:** The ParaTuck-2 decomposition (PT2D) of third-order tensor is a two-layer generalization of the well-known canonical polyadic decomposition (CPD). While being more flexible than the CPD, the PT2D also possesses similar uniqueness properties.
@@ -257,7 +261,7 @@ In this paper, we show than under the best known uniqueness conditions, the exac
 We do so by lifting the slices of the tensor to higher-dimensional space, which also allows for refining the existing uniqueness conditions. The algorithms are developed for general PT2D and its symmetric version (DEDICOM), which leads to an algebraic algorithm for another generalization of the CPD, the PARAFAC2 decomposition. Our methods are also applicable in the approximation scenario, as shown by the numerical experiments.
 
 
-### Ivan Yakushev (ENSAD, Nancy
+### Ivan Yakushev (ENSAD, Nancy)
 *LoRA for Visual Art: Fine-Tuning Open Diffusion Models for Creative Applications*
 
 **Abstract:**  TBD
