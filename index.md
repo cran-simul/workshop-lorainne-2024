@@ -19,7 +19,7 @@
 | 17:00-17:30      | Yang Qi <br> *The statistical limits of multi-spiked random tensor models* [(abstract)](#yang-qi) |
 | 17:30-19:00      | Poster session with reception              |
 | **Wed 27 Nov** | <a name="wed-am"></a>**(Day 2)**                             |
-| 09:00-10:00      | Bernard Mourrain  <br>   *Low rank approximation of moment matrices and tensors*   [(abstract)](#bernard-mourrain)                 |
+| 09:00-10:00      | Bernard Mourrain  <br>   *Low rank approximation of moment sequences and tensors*   [(abstract)](#bernard-mourrain)                 |
 | 10:00-10:30      | Jérémy Cohen  <br>  *Implicit Regularization in Regularized (Nonnegative) Low-Rank Approximations*   [(abstract)](#jérémy-cohen)  |
 | 10:30-11:00      | Coffee break                            |
 | 11:00-12:00      | Julia Gusak  <br> *Tensor Methods in Deep Learning and their Efficiency*        [(abstract)](#julia-gusak)                   |
