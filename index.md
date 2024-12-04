@@ -14,22 +14,22 @@
 | 13:15-13:45      | Registration                            |
 | 13:45-14:00      | Opening remarks                         |
 | 14:00-15:00      | André de Almeida  <br>  *Overview of tensor decompositions and some applications to wireless communications*      [(abstract)](#andré-de-almeida)             |
-| 15:00-15:30      | Mariya Ishteva <br>  *Decoupling multivariate functions using tensors* [(abstract)](#mariya-ishteva)   |
+| 15:00-15:30      | Mariya Ishteva <br>  *Decoupling multivariate functions using tensors* [(abstract)](#mariya-ishteva) [(slides)](https://cran-simul.github.io/workshop-lorainne-2024/assets/Mariya_Ishteva_LoRAINNe_2024_workshop_presentation.pdf) |
 | 15:30-16:00      | Coffee break                            |
-| 16:00-17:00      | Francesco Tudisco  <br> *Exploiting Low-Rank Geometry in Deep Learning* [(abstract)](#francesco-tudisco) |
-| 17:00-17:30      | Yang Qi <br> *The statistical limits of multi-spiked random tensor models* [(abstract)](#yang-qi) |
+| 16:00-17:00      | Francesco Tudisco  <br> *Exploiting Low-Rank Geometry in Deep Learning* [(abstract)](#francesco-tudisco) [(slides)](https://cran-simul.github.io/workshop-lorainne-2024/assets/FTudisco_Exploiting_low_rank_geometry_in_deep_learning.pdf) |
+| 17:00-17:30      | Yang Qi <br> *The statistical limits of multi-spiked random tensor models* [(abstract)](#yang-qi) [(slides)](https://cran-simul.github.io/workshop-lorainne-2024/assets/Yang_Qi_LoRAINNE_Statistical_limits_multi_spiked_random_tensor_models.pdf) |
 | 17:30-19:00      | Poster session with reception              |
 | **Wed 27 Nov** | <a name="wed-am"></a>**(Day 2)**                             |
-| 09:00-10:00      | Bernard Mourrain  <br>   *Low rank approximation of moment sequences and tensors*   [(abstract)](#bernard-mourrain)                 |
-| 10:00-10:30      | Jérémy Cohen  <br>  *Implicit Regularization in Regularized (Nonnegative) Low-Rank Approximations*   [(abstract)](#jérémy-cohen)  |
+| 09:00-10:00      | Bernard Mourrain  <br>   *Low rank approximation of moment sequences and tensors*   [(abstract)](#bernard-mourrain) [(slides)](https://cran-simul.github.io/workshop-lorainne-2024/assets/BMourrain_Low_rank_approximation_moment_sequences_and_tensors.pdf)                |
+| 10:00-10:30      | Jérémy Cohen  <br>  *Implicit Regularization in Regularized (Nonnegative) Low-Rank Approximations*   [(abstract)](#jérémy-cohen)  [(slides)](https://cran-simul.github.io/workshop-lorainne-2024/assets/Jeremy_Cohen_Implicit_Regularization_in_Regularized_Low_Rank_Approximations.pdf) |
 | 10:30-11:00      | Coffee break                            |
 | 11:00-12:00      | Julia Gusak  <br> *Tensor Methods in Deep Learning and their Efficiency*        [(abstract)](#julia-gusak)                   |
-| 12:00-12:30      | Yassine Zniyed <br> *Network compression using tensor decompositions and pruning*    [(abstract)](#yassine-zniyed) |
+| 12:00-12:30      | Yassine Zniyed <br> *Network compression using tensor decompositions and pruning*    [(abstract)](#yassine-zniyed) [(slides)](https://cran-simul.github.io/workshop-lorainne-2024/assets/Yassine_Zniyed_Workshop_LoRAINNE_Network_compression_using_tensor_decompositions_and_pruning.pdf) |
 | 12:30-14:00      | <a name="wed-pm"></a> Lunch break                             |
-| 14:00-14:45      | Christophe Cerisara  <br> *Low-rank compression of LLMs*  [(abstract)](#christophe-cerisara)  |
+| 14:00-14:45      | Christophe Cerisara  <br> *Low-rank compression of LLMs*  [(abstract)](#christophe-cerisara) [(slides)](https://olki.loria.fr/cerisara/talks/sparse24.html)  |
 | 14:45-15:15      | Carolin Penke <br>  *Efficient Computation of Low-Rank Representations to Reduce Memory Requirements in LLM Training*  [(abstract)](#carolin-penke)  |
 | 15:15-15:45      | Coffee break                            |
-| 15:45-16:15      | Mark Sandler <br>  *Artificial Neuroscience: metrology and engineering for Deep Learning using Linear Algebra* [(abstract)](#mark-sandler) |
+| 15:45-16:15      | Mark Sandler <br>  *Artificial Neuroscience: metrology and engineering for Deep Learning using Linear Algebra* [(abstract)](#mark-sandler) [(slides)](https://cran-simul.github.io/workshop-lorainne-2024/assets/Mark_Sandler_ArtiNero_Artificial_Neuroscience.pdf) |
 | 16:15-16:45      | Romain Serizel <br>  *Monitoring Environmental Impact of AI Systems: why and how?* [(abstract)](#romain-serizel) |
 | 16:45-17:00      | Farewell                                |
 
