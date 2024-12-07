@@ -6,7 +6,7 @@
 **Dates**: 26 and 27 November, 2024.
 
 
-![Workshop group photo](/assets/LORAINNE24_group_photo_small.jpg "LORAINNE'24")
+![Workshop group photo](https://cran-simul.github.io/workshop-lorainne-2024/assets/LORAINNE24_group_photo_small.jpg "LORAINNE'24")
 
 ### Schedule:
 
