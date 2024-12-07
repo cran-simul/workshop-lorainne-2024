@@ -5,6 +5,9 @@
 
 **Dates**: 26 and 27 November, 2024.
 
+
+![Workshop group photo](/assets/LORAINNE24_group_photo_small.jpg "LORAINNE'24")
+
 ### Schedule:
 
 
@@ -33,11 +36,12 @@
 | 16:15-16:45      | Romain Serizel <br>  *Monitoring Environmental Impact of AI Systems: why and how?* [(abstract)](#romain-serizel) |
 | 16:45-17:00      | Farewell                                |
 
+
 ## About the Workshop
-This workshop will explore low-rank matrix and tensor decompositions/approximations and their interactions with neural networks and machine learning at large. The workshop will cover theoretical foundations as well as practical applications, with the main goal to connect researchers working in these fields. This workshop is also a closing event for the ANR LeaFleT project (project ANR-19-CE23-0021).
+This workshop  explores low-rank matrix and tensor decompositions/approximations and their interactions with neural networks and machine learning at large. The workshop  covers theoretical foundations as well as practical applications, with the main goal to connect researchers working in these fields. This workshop is also a closing event for the ANR LeaFleT project (project ANR-19-CE23-0021).
 
 ## Registration
-Registration is free but mandatory (the capacity is limited), by 21 November at the latest.[Click here to register!](https://forms.gle/cp7v3FCfH1QnJh8F6)
+Registration is free but mandatory (the capacity is limited), by 21 November at the latest.
 
 ## Invited speakers
 - [André de Almeida](https://professors.gtel.ufc.br/andre/) (Federal University of Ceará, Fortaleza)
@@ -52,9 +56,6 @@ Registration is free but mandatory (the capacity is limited), by 21 November at 
 - [Francesco Tudisco](https://ftudisco.gitlab.io/) (University of Edinburgh)
 - [Yang Qi](https://sites.google.com/view/yangqi) (INRIA Saclay – Île-de-France)
 - [Yassine Zniyed](https://yzniyed.blogspot.com/p/about-me.html) (Université de Toulon)
-
-## Poster session
-
 
 
 ## Tuesday 26 November (afternoon)
@@ -194,18 +195,6 @@ With the increasingly complex models used in machine learning and the large amou
 
 
 ## Poster session  (Tue 26 November, 17:30-19:00)
-
-### Hassan Ballout (Université de Strasbourg)
-*Nonlinear compressive reduced basis method*
-
-**Abstract:** Reduced basis methods for approximating the solutions of parameter-dependent partial differential equations (PDEs) are based on learning the structure of the set of solutions - seen as a manifold S in some functional space - when the parameters vary. This involves investigating the manifold and, in particular, understanding whether it is close to a low-dimensional affine space. This leads to the notion of Kolmogorov N-width that consists of evaluating to which extent the best choice of a vectorial space of dimension N approximates S well enough. If a good approximation of elements in S can be done with some well-chosen vectorial space of dimension N - provided N is not too large - then a reduced" basis can be proposed that leads to a Galerkin type method for the approximation of any element in S. In many cases, however, the Kolmogorov N-width is not so small, even if the parameter set lies in a space of a small dimension, yielding a manifold with a small dimension. In terms of complexity reduction, this gap between the small dimension of the manifold and the large Kolmogorov N-width can be explained by the fact that the Kolmogorov N-width is linear while, in contrast, the dependency in the parameter is, most often, non-linear. There have been many contributions aiming at reconciling these two statements, either based on deterministic or Al approaches. We investigate here further a new paradigm that, in some sense, merges these two aspects: the nonlinear compressive reduced basis approximation. We focus on a simple multiparameter problem and illustrate rigorously that the complexity associated with the approximation of the solution to the parameter-dependent PDE is directly related to the number of parameters rather than the Kolmogorov N-width.
-
-
-
-### Saulo Barreto (CRAN, Nancy)
-*Physically-constrained block-term tensor decomposition for polarimetric image recovery*
-
-***Abstract:*** This work introduces a complete approach for recovering polarimetric images from experimental intensity measurements. In many applications, such images collect, at each pixel, a Stokes vector encoding the polarization state of light. By representing a Stokes vector image as a third-order tensor, we propose a new physically constrained block-term tensor decomposition called Stokes-BTD. The proposed model is flexible and comes with broad identifiability guarantees. Moreover, physical constraints ensure meaningful interpretation of low-rank terms as Stokes vectors. In practice, Stokes images must be recovered from indirect, intensity measurements. To this aim, we implement two recovery algorithms for StokesBTD based on constrained alternated optimization and highlight constraints related to Stokes vectors. Numerical experiments on synthetic and real data illustrate the potential of the approach.
 
 
 ### Joppe De Jonghe (KU Leuven, Belgium)
