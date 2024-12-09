@@ -30,7 +30,7 @@
 | 12:00-12:30      | Yassine Zniyed <br> *Network compression using tensor decompositions and pruning*    [(abstract)](#yassine-zniyed) [(slides)](https://cran-simul.github.io/workshop-lorainne-2024/assets/Yassine_Zniyed_Workshop_LoRAINNE_Network_compression_using_tensor_decompositions_and_pruning.pdf) |
 | 12:30-14:00      | <a name="wed-pm"></a> Lunch break                             |
 | 14:00-14:45      | Christophe Cerisara  <br> *Low-rank compression of LLMs*  [(abstract)](#christophe-cerisara) [(slides)](https://olki.loria.fr/cerisara/talks/sparse24.html)  |
-| 14:45-15:15      | Carolin Penke <br>  *Efficient Computation of Low-Rank Representations to Reduce Memory Requirements in LLM Training*  [(abstract)](#carolin-penke)  |
+| 14:45-15:15      | Carolin Penke <br>  *Efficient Computation of Low-Rank Representations to Reduce Memory Requirements in LLM Training*  [(abstract)](#carolin-penke)  [(slides)](https://cran-simul.github.io/workshop-lorainne-2024/assets/Penke_LowRankRepresentationsToReduceMemoryInLLMs.pdf) |
 | 15:15-15:45      | Coffee break                            |
 | 15:45-16:15      | Mark Sandler <br>  *Artificial Neuroscience: metrology and engineering for Deep Learning using Linear Algebra* [(abstract)](#mark-sandler) [(slides)](https://cran-simul.github.io/workshop-lorainne-2024/assets/Mark_Sandler_ArtiNero_Artificial_Neuroscience.pdf) |
 | 16:15-16:45      | Romain Serizel <br>  *Monitoring Environmental Impact of AI Systems: why and how?* [(abstract)](#romain-serizel) |
