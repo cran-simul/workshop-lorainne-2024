@@ -10,7 +10,6 @@
 
 ### Schedule:
 
-
 | **Date/Time**         | **Session**                             |
 |-----------------------|-----------------------------------------|
 | **Tue 26 Nov** | <a name="tue-pm"></a>**(Day 1)**                             |
@@ -33,7 +32,7 @@
 | 14:45-15:15      | Carolin Penke <br>  *Efficient Computation of Low-Rank Representations to Reduce Memory Requirements in LLM Training*  [(abstract)](#carolin-penke)  [(slides)](https://cran-simul.github.io/workshop-lorainne-2024/assets/Penke_LowRankRepresentationsToReduceMemoryInLLMs.pdf) |
 | 15:15-15:45      | Coffee break                            |
 | 15:45-16:15      | Mark Sandler <br>  *Artificial Neuroscience: metrology and engineering for Deep Learning using Linear Algebra* [(abstract)](#mark-sandler) [(slides)](https://cran-simul.github.io/workshop-lorainne-2024/assets/Mark_Sandler_ArtiNero_Artificial_Neuroscience.pdf) |
-| 16:15-16:45      | Romain Serizel <br>  *Monitoring Environmental Impact of AI Systems: why and how?* [(abstract)](#romain-serizel) |
+| 16:15-16:45      | Romain Serizel <br>  *Monitoring Environmental Impact of AI Systems: why and how?* [(abstract)](#romain-serizel) [(slides)](https://cran-simul.github.io/workshop-lorainne-2024/assets/Serizel_LoRAINNe24_27_11_2024.pdf) |
 | 16:45-17:00      | Farewell                                |
 
 
