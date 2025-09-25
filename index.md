@@ -1,6 +1,6 @@
 ## LoRAINNe'24: workshop on LOw-Rank Approximations and their Interactions with Neural NEtworks
 
-**Location**: IDMC (Institut des Sciences du Digital Management & Cognition), Pôle Herbert Simon, 13 rue Michel Ney, Nancy (rooms 206/207).  [How to get there](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=48.68995%2C6.17449%3B48.69743%2C6.17170#map=16/48.69372/6.17266)
+**Location**: IDMC (Institut des Sciences du Digital Management & Cognition), Pôle Herbert Simon, 13 rue Michel Ney, Nancy (rooms 206 / 207).  [How to get there](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=48.68995%2C6.17449%3B48.69743%2C6.17170#map=16/48.69372/6.17266)
 
 
 **Dates**: 26 and 27 November, 2024.
